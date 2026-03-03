@@ -1,0 +1,72 @@
+[
+  {
+    "name": "_primaryKey",
+    "type": "string",
+    "description": "Unique identifier for this record",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "_firstSeenAt",
+    "type": "datetime",
+    "description": "First time this record was seen",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "_lastSeenAt",
+    "type": "datetime",
+    "description": "Last time this record was updated",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "venueId",
+    "type": "float",
+    "description": "Unique StubHub venue ID (e.g., 1817)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "name",
+    "type": "string",
+    "description": "Venue name (e.g., Dodger Stadium)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "addressCity",
+    "type": "string",
+    "description": "Venue city (e.g., Los Angeles)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "addressFull",
+    "type": "string",
+    "description": "Full venue location (e.g., Los Angeles, CA, USA)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "addressCountryCode",
+    "type": "string",
+    "description": "Country code (US, CA, GB, etc.)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "addressCountry",
+    "type": "string",
+    "description": "Full country name (USA, Canada, etc.)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "timezoneOffset",
+    "type": "float",
+    "description": "Timezone offset in milliseconds from UTC",
+    "fillRate": 99,
+    "premium": false
+  }
+]

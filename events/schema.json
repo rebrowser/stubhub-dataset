@@ -1,0 +1,163 @@
+[
+  {
+    "name": "_primaryKey",
+    "type": "string",
+    "description": "Unique identifier for this record",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "_firstSeenAt",
+    "type": "datetime",
+    "description": "First time this record was seen",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "_lastSeenAt",
+    "type": "datetime",
+    "description": "Last time this record was updated",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "eventId",
+    "type": "float",
+    "description": "Unique StubHub event ID (e.g., 159257629)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "name",
+    "type": "string",
+    "description": "Full event name (e.g., Arizona Diamondbacks at Los Angeles Dodgers)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "url",
+    "type": "string",
+    "description": "Full StubHub URL for the event",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "eventStartDatetime",
+    "type": "datetime",
+    "description": "Event start datetime (UTC)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "isTbd",
+    "type": "bool",
+    "description": "Event datetime is TBD (to be determined)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "isDateConfirmed",
+    "type": "bool",
+    "description": "Event date is confirmed",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "isTimeConfirmed",
+    "type": "bool",
+    "description": "Event time is confirmed",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "eventState",
+    "type": "float",
+    "description": "Event state code (1=active, 4=postponed, 5=cancelled, 6=unknown, 11=TBD)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "eventAvailabilityState",
+    "type": "float",
+    "description": "Event availability state (0=available, 1=limited, 2=soldout)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "venueId",
+    "type": "float",
+    "description": "StubHub venue ID (join with stubhub_venues)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "minPrice",
+    "type": "float",
+    "description": "Minimum ticket price in dollars",
+    "fillRate": 97,
+    "premium": true
+  },
+  {
+    "name": "medianPriceBucket",
+    "type": "float",
+    "description": "Median price bucket (0-3 scale)",
+    "fillRate": 75,
+    "premium": false
+  },
+  {
+    "name": "isUnderHundred",
+    "type": "bool",
+    "description": "Event has tickets under $100",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "hasActiveListings",
+    "type": "bool",
+    "description": "Event has active ticket listings",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "ticketsRemaining",
+    "type": "float",
+    "description": "Number of tickets remaining on StubHub",
+    "fillRate": 6,
+    "premium": true
+  },
+  {
+    "name": "isFastSelling",
+    "type": "bool",
+    "description": "Event is fast selling (top 10% of daily sales)",
+    "fillRate": 35,
+    "premium": true
+  },
+  {
+    "name": "onSaleDateTime",
+    "type": "datetime",
+    "description": "When tickets go on sale (UTC)",
+    "fillRate": 77,
+    "premium": false
+  },
+  {
+    "name": "rescheduledFromDate",
+    "type": "string",
+    "description": "Original date if event was rescheduled",
+    "fillRate": 0,
+    "premium": false
+  },
+  {
+    "name": "isParkingEvent",
+    "type": "bool",
+    "description": "Event is a parking pass",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "isMultidayEvent",
+    "type": "bool",
+    "description": "Event spans multiple days",
+    "fillRate": 100,
+    "premium": false
+  }
+]

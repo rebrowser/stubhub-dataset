@@ -1,0 +1,191 @@
+[
+  {
+    "name": "_primaryKey",
+    "type": "string",
+    "description": "Unique identifier for this record",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "_firstSeenAt",
+    "type": "datetime",
+    "description": "First time this record was seen",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "_lastSeenAt",
+    "type": "datetime",
+    "description": "Last time this record was updated",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "listingId",
+    "type": "string",
+    "description": "Unique listing ID (numeric, e.g., 9833690568)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "eventId",
+    "type": "string",
+    "description": "Event ID this listing belongs to (join with stubhub_events)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "price",
+    "type": "float",
+    "description": "Ticket price in dollars including all fees (e.g., 212.35)",
+    "fillRate": 100,
+    "premium": true
+  },
+  {
+    "name": "faceValue",
+    "type": "float",
+    "description": "Face value of ticket in dollars (original printed price, 0 or null if not available)",
+    "fillRate": 85,
+    "premium": true
+  },
+  {
+    "name": "section",
+    "type": "string",
+    "description": "Section name/number (e.g., 116, 325, 104)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "row",
+    "type": "string",
+    "description": "Row within section - letter (A, B, GG), numeric (1-20+), or null if unassigned",
+    "fillRate": 93,
+    "premium": false
+  },
+  {
+    "name": "seat",
+    "type": "string",
+    "description": "Seat range (e.g., \"5_6\", \"1_6\", \"12_13\") or null if unassigned",
+    "fillRate": 34,
+    "premium": false
+  },
+  {
+    "name": "seatFrom",
+    "type": "string",
+    "description": "Starting seat number (e.g., \"1\", \"5\", \"12\")",
+    "fillRate": 33,
+    "premium": false
+  },
+  {
+    "name": "seatTo",
+    "type": "string",
+    "description": "Ending seat number (e.g., \"6\", \"13\")",
+    "fillRate": 9,
+    "premium": false
+  },
+  {
+    "name": "quantity",
+    "type": "float",
+    "description": "Number of tickets available in this listing (1-25, typically 2-8)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "availableQuantities",
+    "type": "array",
+    "description": "Purchasable quantities (e.g., [1,2,3,4] means you can buy 1, 2, 3, or 4 tickets)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "ticketClass",
+    "type": "float",
+    "description": "Ticket class ID (e.g., 594=Lower, 407=Upper, 954=Upper Level)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "ticketClassName",
+    "type": "string",
+    "description": "Ticket class name (Lower, Upper, Mezzanine, Club Level, Plaza Level, etc.)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "ticketTypeId",
+    "type": "float",
+    "description": "Ticket type ID (10=Mobile Transfer, 11=Mobile, 9=Mobile Entry, 1=Print-at-Home)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "ticketTypeName",
+    "type": "string",
+    "description": "Ticket delivery type (Mobile Transfer ticket, Mobile ticket, Print-at-Home ticket)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "listingTypeId",
+    "type": "float",
+    "description": "Listing type ID (1=standard ~95%, 14=other ~5%)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "starRating",
+    "type": "float",
+    "description": "Deal star rating 1-5 (5=best deal, null ~0.5-11% of listings)",
+    "fillRate": 98,
+    "premium": true
+  },
+  {
+    "name": "dealScore",
+    "type": "float",
+    "description": "Deal quality score 0-10 (e.g., 9.676, higher=better value)",
+    "fillRate": 98,
+    "premium": true
+  },
+  {
+    "name": "discount",
+    "type": "float",
+    "description": "Discount factor vs avg price (e.g., 0.798=~80% off avg, negative=above avg)",
+    "fillRate": 98,
+    "premium": true
+  },
+  {
+    "name": "seatQualityScore",
+    "type": "float",
+    "description": "Seat quality score (e.g., 4.533, higher=better seat position)",
+    "fillRate": 98,
+    "premium": true
+  },
+  {
+    "name": "isSeatedTogether",
+    "type": "bool",
+    "description": "Whether tickets are seated together (true ~94-96%, false ~4-6%)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "isSpeculativeRow",
+    "type": "bool",
+    "description": "Whether row is speculative/unconfirmed (true ~1-4%, false ~96-99%)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "listingNotes",
+    "type": "array",
+    "description": "Listing notes/disclosures (Clear view, Front Row of Section, Limited view, Aisle seat, etc.)",
+    "fillRate": 100,
+    "premium": false
+  },
+  {
+    "name": "createdAt",
+    "type": "datetime",
+    "description": "Listing creation timestamp",
+    "fillRate": 100,
+    "premium": false
+  }
+]
