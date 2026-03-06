@@ -101,7 +101,7 @@
     "name": "medianPriceBucket",
     "type": "float",
     "description": "Median price bucket (0-3 scale)",
-    "fillRate": 75,
+    "fillRate": 71,
     "premium": false
   },
   {
@@ -122,14 +122,14 @@
     "name": "ticketsRemaining",
     "type": "float",
     "description": "Number of tickets remaining on StubHub",
-    "fillRate": 6,
+    "fillRate": 2,
     "premium": true
   },
   {
     "name": "isFastSelling",
     "type": "bool",
     "description": "Event is fast selling (top 10% of daily sales)",
-    "fillRate": 35,
+    "fillRate": 30,
     "premium": true
   },
   {
