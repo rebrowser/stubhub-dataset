@@ -101,7 +101,7 @@
     "name": "medianPriceBucket",
     "type": "float",
     "description": "Median price bucket (0-3 scale)",
-    "fillRate": 71,
+    "fillRate": 72,
     "premium": false
   },
   {
