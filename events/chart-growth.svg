@@ -21,27 +21,27 @@
           rx="1" fill="#22c55eb3" />
   <rect x="93" y="235" width="32" height="5"
           rx="1" fill="#22c55eb3" />
-  <rect x="127" y="232" width="32" height="8"
+  <rect x="127" y="233" width="32" height="7"
           rx="1" fill="#22c55eb3" />
-  <rect x="161" y="235" width="32" height="5"
+  <rect x="161" y="236" width="32" height="4"
           rx="1" fill="#22c55eb3" />
-  <rect x="195" y="234" width="32" height="6"
+  <rect x="195" y="235" width="32" height="5"
           rx="1" fill="#22c55eb3" />
   <rect x="229" y="235" width="32" height="5"
           rx="1" fill="#22c55eb3" />
-  <rect x="263" y="234" width="32" height="6"
+  <rect x="263" y="235" width="32" height="5"
           rx="1" fill="#22c55eb3" />
   <rect x="297" y="233" width="32" height="7"
           rx="1" fill="#22c55eb3" />
   <rect x="331" y="234" width="32" height="6"
           rx="1" fill="#22c55eb3" />
-  <rect x="365" y="227" width="32" height="13"
+  <rect x="365" y="228" width="32" height="12"
           rx="1" fill="#22c55eb3" />
   <rect x="399" y="235" width="32" height="5"
           rx="1" fill="#22c55eb3" />
-  <rect x="433" y="235" width="32" height="5"
+  <rect x="433" y="236" width="32" height="4"
           rx="1" fill="#22c55eb3" />
-  <rect x="467" y="234" width="32" height="6"
+  <rect x="467" y="235" width="32" height="5"
           rx="1" fill="#22c55eb3" />
   <rect x="501" y="235" width="32" height="5"
           rx="1" fill="#22c55eb3" />
@@ -57,14 +57,14 @@
           rx="1" fill="#22c55eb3" />
   <rect x="705" y="237" width="32" height="3"
           rx="1" fill="#22c55eb3" />
-  <rect x="739" y="231" width="32" height="9"
+  <rect x="739" y="232" width="32" height="8"
           rx="1" fill="#22c55eb3" />
-  <rect x="773" y="215" width="32" height="25"
+  <rect x="773" y="231" width="32" height="9"
           rx="1" fill="#22c55eb3" />
   <rect x="807" y="73" width="32" height="167"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="75,240 109,237 143,232 177,229 211,225 245,222 279,218 313,214 347,210 381,202 415,198 449,196 483,192 517,189 551,186 585,183 619,181 653,178 687,177 721,175 755,170 789,154 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="75,240 109,237 143,232 177,229 211,225 245,222 279,218 313,214 347,210 381,202 415,198 449,196 483,192 517,189 551,186 585,183 619,181 653,178 687,177 721,175 755,170 789,164 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
