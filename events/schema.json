@@ -94,14 +94,14 @@
     "name": "minPrice",
     "type": "float",
     "description": "Minimum ticket price in dollars",
-    "fillRate": 97,
+    "fillRate": 96,
     "premium": true
   },
   {
     "name": "medianPriceBucket",
     "type": "float",
     "description": "Median price bucket (0-3 scale)",
-    "fillRate": 77,
+    "fillRate": 74,
     "premium": false
   },
   {
