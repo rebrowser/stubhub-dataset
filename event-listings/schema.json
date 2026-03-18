@@ -45,7 +45,7 @@
     "name": "faceValue",
     "type": "float",
     "description": "Face value of ticket in dollars (original printed price, 0 or null if not available)",
-    "fillRate": 84,
+    "fillRate": 85,
     "premium": true
   },
   {
@@ -66,21 +66,21 @@
     "name": "seat",
     "type": "string",
     "description": "Seat range (e.g., \"5_6\", \"1_6\", \"12_13\") or null if unassigned",
-    "fillRate": 40,
+    "fillRate": 38,
     "premium": false
   },
   {
     "name": "seatFrom",
     "type": "string",
     "description": "Starting seat number (e.g., \"1\", \"5\", \"12\")",
-    "fillRate": 34,
+    "fillRate": 33,
     "premium": false
   },
   {
     "name": "seatTo",
     "type": "string",
     "description": "Ending seat number (e.g., \"6\", \"13\")",
-    "fillRate": 12,
+    "fillRate": 9,
     "premium": false
   },
   {
@@ -150,7 +150,7 @@
     "name": "discount",
     "type": "float",
     "description": "Discount factor vs avg price (e.g., 0.798=~80% off avg, negative=above avg)",
-    "fillRate": 90,
+    "fillRate": 91,
     "premium": true
   },
   {
