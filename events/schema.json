@@ -101,7 +101,7 @@
     "name": "medianPriceBucket",
     "type": "float",
     "description": "Median price bucket (0-3 scale)",
-    "fillRate": 73,
+    "fillRate": 75,
     "premium": false
   },
   {
@@ -136,7 +136,7 @@
     "name": "onSaleDateTime",
     "type": "datetime",
     "description": "When tickets go on sale (UTC)",
-    "fillRate": 77,
+    "fillRate": 76,
     "premium": false
   },
   {

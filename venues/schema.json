@@ -66,7 +66,7 @@
     "name": "timezoneOffset",
     "type": "float",
     "description": "Timezone offset in milliseconds from UTC",
-    "fillRate": 99,
+    "fillRate": 100,
     "premium": false
   }
 ]
