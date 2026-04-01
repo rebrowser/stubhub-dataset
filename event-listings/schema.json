@@ -59,28 +59,28 @@
     "name": "row",
     "type": "string",
     "description": "Row within section - letter (A, B, GG), numeric (1-20+), or null if unassigned",
-    "fillRate": 91,
+    "fillRate": 90,
     "premium": false
   },
   {
     "name": "seat",
     "type": "string",
     "description": "Seat range (e.g., \"5_6\", \"1_6\", \"12_13\") or null if unassigned",
-    "fillRate": 46,
+    "fillRate": 47,
     "premium": false
   },
   {
     "name": "seatFrom",
     "type": "string",
     "description": "Starting seat number (e.g., \"1\", \"5\", \"12\")",
-    "fillRate": 34,
+    "fillRate": 33,
     "premium": false
   },
   {
     "name": "seatTo",
     "type": "string",
     "description": "Ending seat number (e.g., \"6\", \"13\")",
-    "fillRate": 12,
+    "fillRate": 11,
     "premium": false
   },
   {
@@ -150,7 +150,7 @@
     "name": "discount",
     "type": "float",
     "description": "Discount factor vs avg price (e.g., 0.798=~80% off avg, negative=above avg)",
-    "fillRate": 79,
+    "fillRate": 78,
     "premium": true
   },
   {
