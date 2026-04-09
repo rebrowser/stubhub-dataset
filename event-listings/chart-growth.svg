@@ -25,55 +25,55 @@
           rx="1" fill="#22c55eb3" />
   <rect x="155" y="143" width="30" height="97"
           rx="1" fill="#22c55eb3" />
-  <rect x="187" y="147" width="30" height="93"
+  <rect x="187" y="146" width="30" height="94"
           rx="1" fill="#22c55eb3" />
-  <rect x="219" y="145" width="30" height="95"
+  <rect x="219" y="142" width="30" height="98"
           rx="1" fill="#22c55eb3" />
-  <rect x="251" y="141" width="30" height="99"
+  <rect x="251" y="139" width="30" height="101"
           rx="1" fill="#22c55eb3" />
-  <rect x="283" y="132" width="30" height="108"
+  <rect x="283" y="131" width="30" height="109"
           rx="1" fill="#22c55eb3" />
-  <rect x="315" y="146" width="30" height="94"
+  <rect x="315" y="145" width="30" height="95"
           rx="1" fill="#22c55eb3" />
-  <rect x="347" y="142" width="30" height="98"
+  <rect x="347" y="140" width="30" height="100"
           rx="1" fill="#22c55eb3" />
-  <rect x="379" y="151" width="30" height="89"
+  <rect x="379" y="150" width="30" height="90"
           rx="1" fill="#22c55eb3" />
-  <rect x="411" y="158" width="30" height="82"
+  <rect x="411" y="157" width="30" height="83"
           rx="1" fill="#22c55eb3" />
-  <rect x="443" y="160" width="30" height="80"
+  <rect x="443" y="159" width="30" height="81"
           rx="1" fill="#22c55eb3" />
-  <rect x="475" y="133" width="30" height="107"
+  <rect x="475" y="131" width="30" height="109"
           rx="1" fill="#22c55eb3" />
-  <rect x="507" y="138" width="30" height="102"
+  <rect x="507" y="136" width="30" height="104"
           rx="1" fill="#22c55eb3" />
-  <rect x="539" y="147" width="30" height="93"
+  <rect x="539" y="146" width="30" height="94"
           rx="1" fill="#22c55eb3" />
-  <rect x="571" y="141" width="30" height="99"
+  <rect x="571" y="139" width="30" height="101"
           rx="1" fill="#22c55eb3" />
-  <rect x="603" y="103" width="30" height="137"
+  <rect x="603" y="100" width="30" height="140"
           rx="1" fill="#22c55eb3" />
-  <rect x="635" y="102" width="30" height="138"
+  <rect x="635" y="99" width="30" height="141"
           rx="1" fill="#22c55eb3" />
-  <rect x="667" y="97" width="30" height="143"
+  <rect x="667" y="93" width="30" height="147"
           rx="1" fill="#22c55eb3" />
-  <rect x="699" y="114" width="30" height="126"
+  <rect x="699" y="104" width="30" height="136"
           rx="1" fill="#22c55eb3" />
-  <rect x="731" y="108" width="30" height="132"
+  <rect x="731" y="97" width="30" height="143"
           rx="1" fill="#22c55eb3" />
-  <rect x="763" y="122" width="30" height="118"
+  <rect x="763" y="104" width="30" height="136"
           rx="1" fill="#22c55eb3" />
-  <rect x="795" y="182" width="30" height="58"
+  <rect x="795" y="145" width="30" height="95"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="74,240 106,228 138,215 170,208 202,201 234,194 266,186 298,178 330,171 362,164 394,157 426,151 458,145 490,137 522,129 554,122 586,114 618,104 650,94 682,83 714,73 746,63 778,54 810,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="74,240 106,228 138,216 170,209 202,202 234,195 266,188 298,180 330,173 362,166 394,159 426,153 458,148 490,140 522,132 554,125 586,118 618,108 650,98 682,87 714,77 746,67 778,57 810,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >94M</text>
+           >98M</text>
   <text x="52" y="149" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >55M</text>
+           >57M</text>
   <text x="52" y="240" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
            >16M</text>
