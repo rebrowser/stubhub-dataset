@@ -94,7 +94,7 @@
     "name": "minPrice",
     "type": "float",
     "description": "Minimum ticket price in dollars",
-    "fillRate": 41,
+    "fillRate": 40,
     "premium": true
   },
   {
