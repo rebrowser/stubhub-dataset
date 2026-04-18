@@ -23,13 +23,13 @@
           rx="1" fill="#22c55eb3" />
   <rect x="123" y="143" width="30" height="97"
           rx="1" fill="#22c55eb3" />
-  <rect x="155" y="146" width="30" height="94"
+  <rect x="155" y="145" width="30" height="95"
           rx="1" fill="#22c55eb3" />
-  <rect x="187" y="140" width="30" height="100"
+  <rect x="187" y="138" width="30" height="102"
           rx="1" fill="#22c55eb3" />
-  <rect x="219" y="138" width="30" height="102"
+  <rect x="219" y="137" width="30" height="103"
           rx="1" fill="#22c55eb3" />
-  <rect x="251" y="129" width="30" height="111"
+  <rect x="251" y="128" width="30" height="112"
           rx="1" fill="#22c55eb3" />
   <rect x="283" y="143" width="30" height="97"
           rx="1" fill="#22c55eb3" />
@@ -41,39 +41,39 @@
           rx="1" fill="#22c55eb3" />
   <rect x="411" y="158" width="30" height="82"
           rx="1" fill="#22c55eb3" />
-  <rect x="443" y="127" width="30" height="113"
+  <rect x="443" y="128" width="30" height="112"
           rx="1" fill="#22c55eb3" />
-  <rect x="475" y="133" width="30" height="107"
+  <rect x="475" y="134" width="30" height="106"
           rx="1" fill="#22c55eb3" />
   <rect x="507" y="142" width="30" height="98"
           rx="1" fill="#22c55eb3" />
-  <rect x="539" y="133" width="30" height="107"
+  <rect x="539" y="131" width="30" height="109"
           rx="1" fill="#22c55eb3" />
-  <rect x="571" y="92" width="30" height="148"
+  <rect x="571" y="89" width="30" height="151"
           rx="1" fill="#22c55eb3" />
-  <rect x="603" y="89" width="30" height="151"
+  <rect x="603" y="87" width="30" height="153"
           rx="1" fill="#22c55eb3" />
-  <rect x="635" y="83" width="30" height="157"
+  <rect x="635" y="80" width="30" height="160"
           rx="1" fill="#22c55eb3" />
-  <rect x="667" y="97" width="30" height="143"
+  <rect x="667" y="92" width="30" height="148"
           rx="1" fill="#22c55eb3" />
-  <rect x="699" y="89" width="30" height="151"
+  <rect x="699" y="83" width="30" height="157"
           rx="1" fill="#22c55eb3" />
-  <rect x="731" y="94" width="30" height="146"
+  <rect x="731" y="85" width="30" height="155"
           rx="1" fill="#22c55eb3" />
-  <rect x="763" y="101" width="30" height="139"
+  <rect x="763" y="84" width="30" height="156"
           rx="1" fill="#22c55eb3" />
-  <rect x="795" y="214" width="30" height="26"
+  <rect x="795" y="192" width="30" height="48"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="74,240 106,228 138,221 170,214 202,207 234,199 266,191 298,184 330,177 362,170 394,164 426,158 458,150 490,142 522,135 554,127 586,116 618,105 650,94 682,84 714,73 746,62 778,52 810,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="74,240 106,228 138,221 170,215 202,207 234,200 266,192 298,185 330,178 362,172 394,166 426,160 458,152 490,145 522,138 554,130 586,119 618,108 650,97 682,87 714,75 746,64 778,53 810,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >102M</text>
+           >105M</text>
   <text x="52" y="149" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >62M</text>
+           >63M</text>
   <text x="52" y="240" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
            >21M</text>
