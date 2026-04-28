@@ -66,14 +66,14 @@
     "name": "seat",
     "type": "string",
     "description": "Seat range (e.g., \"5_6\", \"1_6\", \"12_13\") or null if unassigned",
-    "fillRate": 53,
+    "fillRate": 54,
     "premium": false
   },
   {
     "name": "seatFrom",
     "type": "string",
     "description": "Starting seat number (e.g., \"1\", \"5\", \"12\")",
-    "fillRate": 34,
+    "fillRate": 35,
     "premium": false
   },
   {
@@ -150,7 +150,7 @@
     "name": "discount",
     "type": "float",
     "description": "Discount factor vs avg price (e.g., 0.798=~80% off avg, negative=above avg)",
-    "fillRate": 69,
+    "fillRate": 68,
     "premium": true
   },
   {
