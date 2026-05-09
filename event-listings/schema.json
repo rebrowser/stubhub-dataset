@@ -150,7 +150,7 @@
     "name": "discount",
     "type": "float",
     "description": "Discount factor vs avg price (e.g., 0.798=~80% off avg, negative=above avg)",
-    "fillRate": 67,
+    "fillRate": 66,
     "premium": true
   },
   {
