@@ -17,61 +17,67 @@
   <line x1="58" y1="236" x2="848" y2="236"
            stroke="#e1e4e8" stroke-width="1" stroke-dasharray="4,3" />
   <!-- bars (Added, right axis) -->
-  <rect x="59" y="134" width="32" height="106"
+  <rect x="59" y="136" width="28" height="104"
           rx="1" fill="#22c55eb3" />
-  <rect x="93" y="134" width="32" height="106"
+  <rect x="89" y="136" width="28" height="104"
           rx="1" fill="#22c55eb3" />
-  <rect x="127" y="124" width="32" height="116"
+  <rect x="119" y="126" width="28" height="114"
           rx="1" fill="#22c55eb3" />
-  <rect x="161" y="139" width="32" height="101"
+  <rect x="149" y="140" width="28" height="100"
           rx="1" fill="#22c55eb3" />
-  <rect x="195" y="134" width="32" height="106"
+  <rect x="179" y="136" width="28" height="104"
           rx="1" fill="#22c55eb3" />
-  <rect x="229" y="147" width="32" height="93"
+  <rect x="209" y="149" width="28" height="91"
           rx="1" fill="#22c55eb3" />
-  <rect x="263" y="155" width="32" height="85"
+  <rect x="239" y="157" width="28" height="83"
           rx="1" fill="#22c55eb3" />
-  <rect x="297" y="156" width="32" height="84"
+  <rect x="269" y="157" width="28" height="83"
           rx="1" fill="#22c55eb3" />
-  <rect x="331" y="123" width="32" height="117"
+  <rect x="299" y="125" width="28" height="115"
           rx="1" fill="#22c55eb3" />
-  <rect x="365" y="129" width="32" height="111"
+  <rect x="329" y="130" width="28" height="110"
           rx="1" fill="#22c55eb3" />
-  <rect x="399" y="134" width="32" height="106"
+  <rect x="359" y="135" width="28" height="105"
           rx="1" fill="#22c55eb3" />
-  <rect x="433" y="126" width="32" height="114"
+  <rect x="389" y="128" width="28" height="112"
           rx="1" fill="#22c55eb3" />
-  <rect x="467" y="79" width="32" height="161"
+  <rect x="419" y="81" width="28" height="159"
           rx="1" fill="#22c55eb3" />
-  <rect x="501" y="78" width="32" height="162"
+  <rect x="449" y="79" width="28" height="161"
           rx="1" fill="#22c55eb3" />
-  <rect x="535" y="73" width="32" height="167"
+  <rect x="479" y="74" width="28" height="166"
           rx="1" fill="#22c55eb3" />
-  <rect x="569" y="85" width="32" height="155"
+  <rect x="509" y="84" width="28" height="156"
           rx="1" fill="#22c55eb3" />
-  <rect x="603" y="74" width="32" height="166"
+  <rect x="539" y="73" width="28" height="167"
           rx="1" fill="#22c55eb3" />
-  <rect x="637" y="74" width="32" height="166"
+  <rect x="569" y="73" width="28" height="167"
           rx="1" fill="#22c55eb3" />
-  <rect x="671" y="79" width="32" height="161"
+  <rect x="599" y="78" width="28" height="162"
           rx="1" fill="#22c55eb3" />
-  <rect x="705" y="86" width="32" height="154"
+  <rect x="629" y="81" width="28" height="159"
           rx="1" fill="#22c55eb3" />
-  <rect x="739" y="91" width="32" height="149"
+  <rect x="659" y="86" width="28" height="154"
           rx="1" fill="#22c55eb3" />
-  <rect x="773" y="160" width="32" height="80"
+  <rect x="689" y="150" width="28" height="90"
           rx="1" fill="#22c55eb3" />
-  <rect x="807" y="226" width="32" height="14"
+  <rect x="719" y="195" width="28" height="45"
+          rx="1" fill="#22c55eb3" />
+  <rect x="749" y="204" width="28" height="36"
+          rx="1" fill="#22c55eb3" />
+  <rect x="779" y="212" width="28" height="28"
+          rx="1" fill="#22c55eb3" />
+  <rect x="809" y="234" width="28" height="6"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="75,240 109,232 143,224 177,217 211,210 245,203 279,197 313,191 347,183 381,175 415,167 449,159 483,148 517,136 551,124 585,113 619,101 653,90 687,78 721,67 755,57 789,51 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="73,240 103,233 133,225 163,218 193,211 223,205 253,199 283,194 313,186 343,178 373,171 403,163 433,152 463,141 493,130 523,119 553,108 583,97 613,85 643,75 673,64 703,58 733,55 763,52 793,50 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >117M</text>
+           >122M</text>
   <text x="52" y="149" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >76M</text>
+           >79M</text>
   <text x="52" y="240" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
            >35M</text>
@@ -93,19 +99,19 @@
   <line x1="848" y1="50" x2="848" y2="240"
            stroke="#e1e4e8" stroke-width="1" />
   <!-- x-axis labels -->
-  <text x="75" y="256" text-anchor="middle"
+  <text x="73" y="256" text-anchor="middle"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
            >Nov 16</text>
   <text x="313" y="256" text-anchor="middle"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >Jan 4</text>
-  <text x="551" y="256" text-anchor="middle"
+           >Jan 11</text>
+  <text x="553" y="256" text-anchor="middle"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >Feb 22</text>
-  <text x="789" y="256" text-anchor="middle"
+           >Mar 8</text>
+  <text x="793" y="256" text-anchor="middle"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >Apr 12</text>
+           >May 3</text>
   <text x="823" y="256" text-anchor="middle"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >Apr 19</text>
+           >May 10</text>
 </svg>
