@@ -73,14 +73,14 @@
     "name": "seatFrom",
     "type": "string",
     "description": "Starting seat number (e.g., \"1\", \"5\", \"12\")",
-    "fillRate": 36,
+    "fillRate": 35,
     "premium": false
   },
   {
     "name": "seatTo",
     "type": "string",
     "description": "Ending seat number (e.g., \"6\", \"13\")",
-    "fillRate": 15,
+    "fillRate": 14,
     "premium": false
   },
   {
