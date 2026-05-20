@@ -31,7 +31,7 @@
           rx="1" fill="#22c55eb3" />
   <rect x="246" y="157" width="29" height="83"
           rx="1" fill="#22c55eb3" />
-  <rect x="277" y="125" width="29" height="115"
+  <rect x="277" y="126" width="29" height="114"
           rx="1" fill="#22c55eb3" />
   <rect x="308" y="130" width="29" height="110"
           rx="1" fill="#22c55eb3" />
@@ -41,7 +41,7 @@
           rx="1" fill="#22c55eb3" />
   <rect x="401" y="87" width="29" height="153"
           rx="1" fill="#22c55eb3" />
-  <rect x="432" y="85" width="29" height="155"
+  <rect x="432" y="86" width="29" height="154"
           rx="1" fill="#22c55eb3" />
   <rect x="463" y="79" width="29" height="161"
           rx="1" fill="#22c55eb3" />
@@ -78,7 +78,7 @@
            >80M</text>
   <text x="52" y="240" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >39M</text>
+           >38M</text>
   <!-- right y-axis labels (Added) -->
   <text x="854" y="56" text-anchor="start"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#22c55e"
