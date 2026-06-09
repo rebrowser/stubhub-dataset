@@ -1,6 +1,6 @@
 # StubHub Ticket Marketplace Dataset
 
-![Updated](https://img.shields.io/badge/updated-2026--06--08-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-119.0M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/stubhub)
+![Updated](https://img.shields.io/badge/updated-2026--06--09-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-119.9M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/stubhub)
 
 Daily snapshots of StubHub resale ticket listings, events, and venues with seating details, delivery types, and availability data across sports, concerts, and theater.
 
@@ -21,7 +21,7 @@ Per-event ticket listings from StubHub with section, row, seat, quantity, delive
 
 
 
-> **119,010,094** total records from 2024-03-31 to 2026-05-31, **up to 30,000** rows in this sample (0.03% of full dataset).
+> **119,905,346** total records from 2024-03-31 to 2026-06-07, **up to 30,000** rows in this sample (0.03% of full dataset).
 > Exported as one file per day, up to 1,000 rows each, last 30 days retained.
 
 ![Data Growth](event-listings/chart-growth.svg)
@@ -37,7 +37,7 @@ Per-event ticket listings from StubHub with section, row, seat, quantity, delive
 | `faceValue` 🔒 | `float` | 86% | Face value of ticket in dollars (original printed price, 0 or null if not available) |
 | `section` | `string` | 100% | Section name/number (e.g., 116, 325, 104) |
 | `row` | `string` | 90% | Row within section - letter (A, B, GG), numeric (1-20+), or null if unassigned |
-| `seat` | `string` | 55% | Seat range (e.g., "5_6", "1_6", "12_13") or null if unassigned |
+| `seat` | `string` | 56% | Seat range (e.g., "5_6", "1_6", "12_13") or null if unassigned |
 | `seatFrom` | `string` | 35% | Starting seat number (e.g., "1", "5", "12") |
 | `seatTo` | `string` | 14% | Ending seat number (e.g., "6", "13") |
 | `quantity` | `float` | 100% | Number of tickets available in this listing (1-25, typically 2-8) |
@@ -71,14 +71,14 @@ Per-event ticket listings from StubHub with section, row, seat, quantity, delive
 
 | Value | Count | Share |
 | --- | --- | --- |
-| Mobile Transfer ticket | 84,673,221 | `██████████████░░░░░░` 71.2% |
-| Mobile ticket | 31,664,309 | `█████░░░░░░░░░░░░░░░` 26.6% |
-| Print-at-Home ticket | 1,265,034 | `░░░░░░░░░░░░░░░░░░░░` 1.1% |
+| Mobile Transfer ticket | 85,216,944 | `██████████████░░░░░░` 71.1% |
+| Mobile ticket | 32,014,330 | `█████░░░░░░░░░░░░░░░` 26.7% |
+| Print-at-Home ticket | 1,266,264 | `░░░░░░░░░░░░░░░░░░░░` 1.1% |
 | Ticket delivery method: Mobile Transfer | 372,921 | `░░░░░░░░░░░░░░░░░░░░` 0.3% |
 | Delivery method: Mobile Transfer | 370,001 | `░░░░░░░░░░░░░░░░░░░░` 0.3% |
 | Delivery method: Mobile | 198,905 | `░░░░░░░░░░░░░░░░░░░░` 0.2% |
 | Ticket delivery method: Mobile | 198,197 | `░░░░░░░░░░░░░░░░░░░░` 0.2% |
-| Physical ticket | 187,929 | `░░░░░░░░░░░░░░░░░░░░` 0.2% |
+| Physical ticket | 188,207 | `░░░░░░░░░░░░░░░░░░░░` 0.2% |
 | Delivery method: Print-at-Home | 6,370 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
 | Ticket delivery method: Print-at-Home | 6,305 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
 
@@ -91,16 +91,16 @@ Per-event ticket listings from StubHub with section, row, seat, quantity, delive
 
 | Value | Count | Share |
 | --- | --- | --- |
-| Upper | 25,627,319 | `████████░░░░░░░░░░░░` 42.2% |
-| Lower | 15,941,451 | `█████░░░░░░░░░░░░░░░` 26.2% |
-| Balcony | 4,487,565 | `█░░░░░░░░░░░░░░░░░░░` 7.4% |
-| Upper Level | 2,734,371 | `█░░░░░░░░░░░░░░░░░░░` 4.5% |
-| Middle | 2,559,414 | `█░░░░░░░░░░░░░░░░░░░` 4.2% |
-| Floor | 2,263,121 | `█░░░░░░░░░░░░░░░░░░░` 3.7% |
-| Mezzanine | 2,133,517 | `█░░░░░░░░░░░░░░░░░░░` 3.5% |
-| 200 Level | 1,691,369 | `█░░░░░░░░░░░░░░░░░░░` 2.8% |
-| Upper Tier | 1,675,223 | `█░░░░░░░░░░░░░░░░░░░` 2.8% |
-| Orchestra | 1,664,754 | `█░░░░░░░░░░░░░░░░░░░` 2.7% |
+| Upper | 25,730,017 | `████████░░░░░░░░░░░░` 42.1% |
+| Lower | 16,052,874 | `█████░░░░░░░░░░░░░░░` 26.3% |
+| Balcony | 4,493,265 | `█░░░░░░░░░░░░░░░░░░░` 7.4% |
+| Upper Level | 2,748,970 | `█░░░░░░░░░░░░░░░░░░░` 4.5% |
+| Middle | 2,584,834 | `█░░░░░░░░░░░░░░░░░░░` 4.2% |
+| Floor | 2,276,405 | `█░░░░░░░░░░░░░░░░░░░` 3.7% |
+| Mezzanine | 2,142,025 | `█░░░░░░░░░░░░░░░░░░░` 3.5% |
+| 200 Level | 1,698,003 | `█░░░░░░░░░░░░░░░░░░░` 2.8% |
+| Upper Tier | 1,676,604 | `█░░░░░░░░░░░░░░░░░░░` 2.7% |
+| Orchestra | 1,665,707 | `█░░░░░░░░░░░░░░░░░░░` 2.7% |
 
 </details>
 
@@ -247,7 +247,7 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 
 ↳ `[{"field":"faceValue","op":"isNotEmpty"},{"sort":"price ASC"}]`
 
-[Mobile Transfer Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/mobile-transfer-tickets) — 79,121,678 records
+[Mobile Transfer Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/mobile-transfer-tickets) — 79,121,666 records
 
 ↳ `[{"field":"ticketTypeName","op":"is","value":"Mobile Transfer ticket"},{"sort":"price ASC"}]`
 
