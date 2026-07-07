@@ -17,36 +17,34 @@
   <line x1="58" y1="236" x2="848" y2="236"
            stroke="#e1e4e8" stroke-width="1" stroke-dasharray="4,3" />
   <!-- bars (Added, right axis) -->
-  <rect x="59" y="234" width="54" height="6"
+  <rect x="59" y="234" width="58" height="6"
           rx="1" fill="#22c55eb3" />
-  <rect x="115" y="234" width="54" height="6"
+  <rect x="119" y="236" width="58" height="4"
           rx="1" fill="#22c55eb3" />
-  <rect x="171" y="236" width="54" height="4"
+  <rect x="179" y="235" width="58" height="5"
           rx="1" fill="#22c55eb3" />
-  <rect x="227" y="235" width="54" height="5"
+  <rect x="239" y="235" width="58" height="5"
           rx="1" fill="#22c55eb3" />
-  <rect x="283" y="235" width="54" height="5"
+  <rect x="299" y="238" width="58" height="2"
           rx="1" fill="#22c55eb3" />
-  <rect x="339" y="238" width="54" height="2"
+  <rect x="359" y="237" width="58" height="3"
           rx="1" fill="#22c55eb3" />
-  <rect x="395" y="237" width="54" height="3"
+  <rect x="419" y="229" width="58" height="11"
           rx="1" fill="#22c55eb3" />
-  <rect x="451" y="229" width="54" height="11"
+  <rect x="479" y="229" width="58" height="11"
           rx="1" fill="#22c55eb3" />
-  <rect x="507" y="229" width="54" height="11"
+  <rect x="539" y="228" width="58" height="12"
           rx="1" fill="#22c55eb3" />
-  <rect x="563" y="228" width="54" height="12"
+  <rect x="599" y="229" width="58" height="11"
           rx="1" fill="#22c55eb3" />
-  <rect x="619" y="229" width="54" height="11"
+  <rect x="659" y="219" width="58" height="21"
           rx="1" fill="#22c55eb3" />
-  <rect x="675" y="219" width="54" height="21"
+  <rect x="719" y="230" width="58" height="10"
           rx="1" fill="#22c55eb3" />
-  <rect x="731" y="230" width="54" height="10"
-          rx="1" fill="#22c55eb3" />
-  <rect x="787" y="73" width="54" height="167"
+  <rect x="779" y="73" width="58" height="167"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="86,240 142,236 198,233 254,229 310,226 366,225 422,222 478,215 534,207 590,199 646,191 702,176 758,169 814,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="88,240 148,237 208,233 268,230 328,229 388,226 448,218 508,210 568,202 628,194 688,179 748,171 808,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
@@ -75,19 +73,16 @@
   <line x1="848" y1="50" x2="848" y2="240"
            stroke="#e1e4e8" stroke-width="1" />
   <!-- x-axis labels -->
-  <text x="86" y="256" text-anchor="middle"
+  <text x="88" y="256" text-anchor="middle"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >Jan 4</text>
-  <text x="310" y="256" text-anchor="middle"
+           >Jan 11</text>
+  <text x="328" y="256" text-anchor="middle"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >Feb 1</text>
-  <text x="534" y="256" text-anchor="middle"
+           >Feb 8</text>
+  <text x="568" y="256" text-anchor="middle"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >Mar 1</text>
-  <text x="758" y="256" text-anchor="middle"
-           font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >Apr 5</text>
-  <text x="814" y="256" text-anchor="middle"
+           >Mar 8</text>
+  <text x="808" y="256" text-anchor="middle"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
            >Apr 12</text>
 </svg>
