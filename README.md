@@ -1,6 +1,6 @@
 # StubHub Ticket Marketplace Dataset
 
-![Updated](https://img.shields.io/badge/updated-2026--07--16-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-123.8M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/stubhub)
+![Updated](https://img.shields.io/badge/updated-2026--07--17-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-123.5M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/stubhub)
 
 Daily snapshots of StubHub resale ticket listings, events, and venues with seating details, delivery types, and availability data across sports, concerts, and theater.
 
@@ -21,7 +21,7 @@ Per-event ticket listings from StubHub with section, row, seat, quantity, delive
 
 
 
-> **123,800,542** total records from 2024-03-31 to 2026-07-12, **up to 30,000** rows in this sample (0.02% of full dataset).
+> **123,442,100** total records from 2024-03-31 to 2026-07-12, **up to 30,000** rows in this sample (0.02% of full dataset).
 > Exported as one file per day, up to 1,000 rows each, last 30 days retained.
 
 ![Data Growth](event-listings/chart-growth.svg)
@@ -71,14 +71,14 @@ Per-event ticket listings from StubHub with section, row, seat, quantity, delive
 
 | Value | Count | Share |
 | --- | --- | --- |
-| Mobile Transfer ticket | 87,798,969 | `██████████████░░░░░░` 71.0% |
-| Mobile ticket | 33,317,799 | `█████░░░░░░░░░░░░░░░` 26.9% |
-| Print-at-Home ticket | 1,273,024 | `░░░░░░░░░░░░░░░░░░░░` 1.0% |
+| Mobile Transfer ticket | 87,765,460 | `██████████████░░░░░░` 71.1% |
+| Mobile ticket | 32,993,176 | `█████░░░░░░░░░░░░░░░` 26.7% |
+| Print-at-Home ticket | 1,273,010 | `░░░░░░░░░░░░░░░░░░░░` 1.0% |
 | Ticket delivery method: Mobile Transfer | 372,921 | `░░░░░░░░░░░░░░░░░░░░` 0.3% |
 | Delivery method: Mobile Transfer | 370,001 | `░░░░░░░░░░░░░░░░░░░░` 0.3% |
 | Delivery method: Mobile | 198,905 | `░░░░░░░░░░░░░░░░░░░░` 0.2% |
 | Ticket delivery method: Mobile | 198,197 | `░░░░░░░░░░░░░░░░░░░░` 0.2% |
-| Physical ticket | 191,149 | `░░░░░░░░░░░░░░░░░░░░` 0.2% |
+| Physical ticket | 190,853 | `░░░░░░░░░░░░░░░░░░░░` 0.2% |
 | Delivery method: Print-at-Home | 6,370 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
 | Ticket delivery method: Print-at-Home | 6,305 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
 
@@ -91,16 +91,16 @@ Per-event ticket listings from StubHub with section, row, seat, quantity, delive
 
 | Value | Count | Share |
 | --- | --- | --- |
-| Upper | 26,292,758 | `████████░░░░░░░░░░░░` 42.0% |
-| Lower | 16,621,874 | `█████░░░░░░░░░░░░░░░` 26.5% |
-| Balcony | 4,533,853 | `█░░░░░░░░░░░░░░░░░░░` 7.2% |
-| Upper Level | 2,799,339 | `█░░░░░░░░░░░░░░░░░░░` 4.5% |
-| Middle | 2,688,673 | `█░░░░░░░░░░░░░░░░░░░` 4.3% |
-| Floor | 2,377,679 | `█░░░░░░░░░░░░░░░░░░░` 3.8% |
-| Mezzanine | 2,185,168 | `█░░░░░░░░░░░░░░░░░░░` 3.5% |
-| 200 Level | 1,743,051 | `█░░░░░░░░░░░░░░░░░░░` 2.8% |
-| Upper Tier | 1,686,061 | `█░░░░░░░░░░░░░░░░░░░` 2.7% |
-| Orchestra | 1,684,942 | `█░░░░░░░░░░░░░░░░░░░` 2.7% |
+| Upper | 26,276,173 | `████████░░░░░░░░░░░░` 42.0% |
+| Lower | 16,613,344 | `█████░░░░░░░░░░░░░░░` 26.5% |
+| Balcony | 4,536,872 | `█░░░░░░░░░░░░░░░░░░░` 7.2% |
+| Upper Level | 2,799,928 | `█░░░░░░░░░░░░░░░░░░░` 4.5% |
+| Middle | 2,684,224 | `█░░░░░░░░░░░░░░░░░░░` 4.3% |
+| Floor | 2,375,372 | `█░░░░░░░░░░░░░░░░░░░` 3.8% |
+| Mezzanine | 2,185,478 | `█░░░░░░░░░░░░░░░░░░░` 3.5% |
+| 200 Level | 1,742,425 | `█░░░░░░░░░░░░░░░░░░░` 2.8% |
+| Upper Tier | 1,687,164 | `█░░░░░░░░░░░░░░░░░░░` 2.7% |
+| Orchestra | 1,684,863 | `█░░░░░░░░░░░░░░░░░░░` 2.7% |
 
 </details>
 
@@ -116,7 +116,7 @@ Daily snapshot of StubHub events with start time, venue ID, availability state, 
 
 
 
-> **7,117** total records from 2025-10-05 to 2026-07-12, **up to 7,117** rows in this sample (100.0% of full dataset).
+> **8,409** total records from 2025-10-05 to 2026-07-12, **up to 8,409** rows in this sample (100.0% of full dataset).
 > Exported as one file per day, up to 1,000 rows each, last 30 days retained.
 
 ![Data Growth](events/chart-growth.svg)
@@ -136,13 +136,13 @@ Daily snapshot of StubHub events with start time, venue ID, availability state, 
 | `eventState` | `float` | 100% | Event state code (1=active, 4=postponed, 5=cancelled, 6=unknown, 11=TBD) |
 | `eventAvailabilityState` | `float` | 100% | Event availability state (0=available, 1=limited, 2=soldout) |
 | `venueId` | `float` | 100% | StubHub venue ID (join with stubhub_venues) |
-| `minPrice` 🔒 | `float` | 39% | Minimum ticket price in dollars |
-| `medianPriceBucket` | `float` | 82% | Median price bucket (0-3 scale) |
+| `minPrice` 🔒 | `float` | 33% | Minimum ticket price in dollars |
+| `medianPriceBucket` | `float` | 79% | Median price bucket (0-3 scale) |
 | `isUnderHundred` | `bool` | 100% | Event has tickets under $100 |
 | `hasActiveListings` | `bool` | 100% | Event has active ticket listings |
 | `ticketsRemaining` 🔒 | `float` | 2% | Number of tickets remaining on StubHub |
-| `isFastSelling` 🔒 | `bool` | 29% | Event is fast selling (top 10% of daily sales) |
-| `onSaleDateTime` | `datetime` | 84% | When tickets go on sale (UTC) |
+| `isFastSelling` 🔒 | `bool` | 24% | Event is fast selling (top 10% of daily sales) |
+| `onSaleDateTime` | `datetime` | 76% | When tickets go on sale (UTC) |
 | `rescheduledFromDate` | `string` | 0% | Original date if event was rescheduled |
 | `isParkingEvent` | `bool` | 100% | Event is a parking pass |
 | `isMultidayEvent` | `bool` | 100% | Event spans multiple days |
@@ -162,10 +162,10 @@ Daily snapshot of StubHub events with start time, venue ID, availability state, 
 
 | Value | Count | Share |
 | --- | --- | --- |
-| 1 | 6,133 | `█████████████████░░░` 86.2% |
-| 11 | 752 | `██░░░░░░░░░░░░░░░░░░` 10.6% |
-| 4 | 141 | `░░░░░░░░░░░░░░░░░░░░` 2.0% |
-| 6 | 90 | `░░░░░░░░░░░░░░░░░░░░` 1.3% |
+| 1 | 7,174 | `█████████████████░░░` 85.3% |
+| 11 | 999 | `██░░░░░░░░░░░░░░░░░░` 11.9% |
+| 4 | 145 | `░░░░░░░░░░░░░░░░░░░░` 1.7% |
+| 6 | 90 | `░░░░░░░░░░░░░░░░░░░░` 1.1% |
 | 5 | 1 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
 
 </details>
@@ -241,7 +241,7 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 ### Event Listings
 
 
-[High Deal Score Listings (8+)](https://rebrowser.net/products/datasets/stubhub/event-listings/views/high-deal-score-listings) — 26,210,682 records
+[High Deal Score Listings (8+)](https://rebrowser.net/products/datasets/stubhub/event-listings/views/high-deal-score-listings) — 26,215,755 records
 
 ↳ `[{"field":"dealScore","op":"gte","value":8},{"sort":"dealScore DESC"}]`
 
@@ -249,15 +249,15 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 
 ↳ `[{"field":"faceValue","op":"isNotEmpty"},{"sort":"price ASC"}]`
 
-[Mobile Transfer Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/mobile-transfer-tickets) — 81,741,458 records
+[Mobile Transfer Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/mobile-transfer-tickets) — 81,741,381 records
 
 ↳ `[{"field":"ticketTypeName","op":"is","value":"Mobile Transfer ticket"},{"sort":"price ASC"}]`
 
-[Lower Level Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/lower-level-tickets) — 15,544,866 records
+[Lower Level Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/lower-level-tickets) — 15,544,865 records
 
 ↳ `[{"field":"ticketClassName","op":"is","value":"Lower"},{"sort":"price ASC"}]`
 
-[Multi-Ticket Listings (4+ tickets)](https://rebrowser.net/products/datasets/stubhub/event-listings/views/multi-ticket-listings) — 61,267,960 records
+[Multi-Ticket Listings (4+ tickets)](https://rebrowser.net/products/datasets/stubhub/event-listings/views/multi-ticket-listings) — 61,264,907 records
 
 ↳ `[{"field":"quantity","op":"gte","value":4},{"sort":"quantity DESC"}]`
 
@@ -269,11 +269,11 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 ### Events
 
 
-[Events with Active Listings](https://rebrowser.net/products/datasets/stubhub/events/views/events-with-active-listings) — 5,463 records
+[Events with Active Listings](https://rebrowser.net/products/datasets/stubhub/events/views/events-with-active-listings) — 5,483 records
 
 ↳ `[{"field":"hasActiveListings","op":"isTrue"},{"sort":"eventStartDatetime ASC"}]`
 
-[Active Events (Not Postponed/Cancelled)](https://rebrowser.net/products/datasets/stubhub/events/views/active-events) — 4,709 records
+[Active Events (Not Postponed/Cancelled)](https://rebrowser.net/products/datasets/stubhub/events/views/active-events) — 4,729 records
 
 ↳ `[{"field":"eventState","op":"eq","value":1},{"sort":"eventStartDatetime ASC"}]`
 
@@ -281,7 +281,7 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 
 ↳ `[{"field":"isFastSelling","op":"isTrue"},{"sort":"minPrice ASC"}]`
 
-[Upcoming Events (Next 30 Days)](https://rebrowser.net/products/datasets/stubhub/events/views/upcoming-events) — 5,538 records
+[Upcoming Events (Next 30 Days)](https://rebrowser.net/products/datasets/stubhub/events/views/upcoming-events) — 5,558 records
 
 ↳ `[{"field":"eventStartDatetime","op":"gte","value":"now"},{"field":"eventStartDatetime","op":"lte","value":"now+30d"},{"sort":"eventStartDatetime ASC"}]`
 

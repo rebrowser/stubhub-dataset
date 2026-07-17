@@ -94,14 +94,14 @@
     "name": "minPrice",
     "type": "float",
     "description": "Minimum ticket price in dollars",
-    "fillRate": 39,
+    "fillRate": 33,
     "premium": true
   },
   {
     "name": "medianPriceBucket",
     "type": "float",
     "description": "Median price bucket (0-3 scale)",
-    "fillRate": 82,
+    "fillRate": 79,
     "premium": false
   },
   {
@@ -129,14 +129,14 @@
     "name": "isFastSelling",
     "type": "bool",
     "description": "Event is fast selling (top 10% of daily sales)",
-    "fillRate": 29,
+    "fillRate": 24,
     "premium": true
   },
   {
     "name": "onSaleDateTime",
     "type": "datetime",
     "description": "When tickets go on sale (UTC)",
-    "fillRate": 84,
+    "fillRate": 76,
     "premium": false
   },
   {
