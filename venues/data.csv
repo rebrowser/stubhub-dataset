@@ -1,122 +1,122 @@
 "_primaryKey","_firstSeenAt","_lastSeenAt","venueId","name","addressCity","addressFull","addressCountryCode","addressCountry","timezoneOffset"
-"4728","2026-07-22 22:12:29.506","2026-07-22 22:12:29.506",4728,"Delta Center","Salt Lake City","Salt Lake City, UT, USA","US","USA",-25200000
-"2333","2026-07-22 22:12:29.502","2026-07-22 22:12:29.502",2333,"Capital One Arena","Washington","Washington, DC, USA","US","USA",-14400000
-"1530","2026-07-22 22:12:29.489","2026-07-22 22:12:29.489",1530,"Scotiabank Arena","Toronto","Toronto, Canada","CA","Canada",-14400000
-"4533","2026-07-22 22:12:28.338","2026-07-22 22:12:28.338",4533,"Frost Bank Center (Formerly AT&T Center)","San Antonio","San Antonio, TX, USA","US","USA",-18000000
-"23645","2026-07-22 22:12:28.338","2026-07-22 22:12:28.338",23645,"Golden 1 Center","Sacramento","Sacramento, CA, USA","US","USA",-28800000
-"70408","2026-07-22 22:12:28.338","2026-07-22 22:12:28.338",70408,"Chase Center","San Francisco","San Francisco, CA, USA","US","USA",-25200000
-"1694","2026-07-22 22:12:28.320","2026-07-22 22:12:28.320",1694,"Mortgage Matchup Center (formerly PHX Arena)","Phoenix","Phoenix, AZ, USA","US","USA",-25200000
-"8381","2026-07-22 22:12:27.793","2026-07-22 22:12:27.793",8381,"Moda Center - Complex","Portland","Portland, OR, USA","US","USA",-28800000
-"6656","2026-07-22 22:12:26.839","2026-07-22 22:12:26.839",6656,"TD Garden","Boston","Boston, MA, USA","US","USA",-14400000
-"4319","2026-07-22 22:12:26.839","2026-07-22 22:12:26.839",4319,"Xfinity Mobile Arena (formerly Wells Fargo Center Philadelphia)","Philadelphia","Philadelphia, PA, USA","US","USA",-14400000
-"2447","2026-07-22 22:12:26.674","2026-07-22 22:12:26.674",2447,"Kia Center (Formerly Amway Center)","Orlando","Orlando, FL, USA","US","USA",-18000000
-"2366","2026-07-22 22:12:25.584","2026-07-22 22:12:25.584",2366,"Kaseya Center","Miami","Miami, FL, USA","US","USA",-14400000
-"2915","2026-07-22 22:12:25.584","2026-07-22 22:12:25.584",2915,"Smoothie King Center","New Orleans","New Orleans, LA, USA","US","USA",-21600000
-"6015","2026-07-22 22:12:25.584","2026-07-22 22:12:25.584",6015,"BOK Center","Tulsa","Tulsa, OK, USA","US","USA",-18000000
-"3708","2026-07-22 22:12:25.441","2026-07-22 22:12:25.441",3708,"Madison Square Garden","New York","New York, NY, USA","US","USA",-14400000
-"4090","2026-07-22 22:12:25.270","2026-07-22 22:12:25.270",4090,"Paycom Center","Oklahoma City","Oklahoma City, OK, USA","US","USA",-21600000
-"2578","2026-07-22 22:12:25.270","2026-07-22 22:12:25.270",2578,"State Farm Arena","Atlanta","Atlanta, GA, USA","US","USA",-14400000
-"37407","2026-07-22 22:12:24.115","2026-07-22 22:12:24.115",37407,"Fiserv Forum","Milwaukee","Milwaukee, WI, USA","US","USA",-21600000
-"3254","2026-07-22 22:12:23.551","2026-07-22 22:12:23.551",3254,"Target Center","Minneapolis","Minneapolis, MN, USA","US","USA",-18000000
-"150077022","2026-07-22 22:12:22.080","2026-07-22 22:12:22.080",150077022,"Intuit Dome","Inglewood","Inglewood, CA, USA","US","USA",-28800000
-"4478","2026-07-22 22:12:22.045","2026-07-22 22:12:22.045",4478,"FedExForum","Memphis","Memphis, TN, USA","US","USA",-21600000
-"1934","2026-07-22 22:12:22.012","2026-07-22 22:12:22.012",1934,"Crypto.com Arena","Los Angeles","Los Angeles, CA, USA","US","USA",-28800000
-"4706","2026-07-22 22:12:17.590","2026-07-22 22:12:17.590",4706,"Toyota Center","Houston","Houston, TX, USA","US","USA",-21600000
-"2747","2026-07-22 22:12:17.304","2026-07-22 22:12:17.304",2747,"Gainbridge Fieldhouse","Indianapolis","Indianapolis, IN, USA","US","USA",-14400000
-"26803","2026-07-22 22:12:11.797","2026-07-22 22:12:11.797",26803,"Little Caesars Arena","Detroit","Detroit, MI, USA","US","USA",-18000000
-"2242","2026-07-22 22:12:11.065","2026-07-22 22:12:11.065",2242,"Ball Arena","Denver","Denver, CO, USA","US","USA",-25200000
-"4577","2026-07-22 22:12:11.048","2026-07-22 22:12:11.048",4577,"American Airlines Center","Dallas","Dallas, TX, USA","US","USA",-21600000
-"4026","2026-07-22 22:12:09.449","2026-07-22 22:12:09.449",4026,"Rocket Arena (formerly Rocket Mortgage FieldHouse)","Cleveland","Cleveland, OH, USA","US","USA",-14400000
-"2734","2026-07-22 22:12:09.328","2026-07-22 22:12:09.328",2734,"United Center","Chicago","Chicago, IL, USA","US","USA",-18000000
-"6911","2026-07-22 22:12:09.320","2026-07-22 22:12:09.320",6911,"Spectrum Center","Charlotte","Charlotte, NC, USA","US","USA",-14400000
-"17278","2026-07-22 22:12:07.965","2026-07-22 22:12:07.965",17278,"Barclays Center","Brooklyn","Brooklyn, NY, USA","US","USA",-14400000
-"23463","2026-07-22 22:12:06.312","2026-07-22 22:12:06.312",23463,"T-Mobile Arena","Las Vegas","Las Vegas, NV, USA","US","USA",-25200000
-"94210","2026-07-22 22:12:05.182","2026-07-22 22:12:05.182",94210,"Climate Pledge Arena","Seattle","Seattle, WA, USA","US","USA",-25200000
-"1848","2026-07-22 22:12:02.076","2026-07-22 22:12:02.076",1848,"Honda Center","Anaheim","Anaheim, CA, USA","US","USA",-25200000
-"92856","2026-07-22 22:11:59.515","2026-07-22 22:11:59.515",92856,"UBS Arena","Elmont","Elmont, NY, USA","US","USA",-18000000
-"3750","2026-07-22 22:11:59.515","2026-07-22 22:11:59.515",3750,"Prudential Center","Newark","Newark, NJ, USA","US","USA",-18000000
-"9243","2026-07-22 22:11:57.589","2026-07-22 22:11:57.589",9243,"AT&T Stadium","Arlington","Arlington, TX, USA","US","USA",-21600000
-"4523","2026-07-22 22:11:54.232","2026-07-22 22:11:54.232",4523,"Bridgestone Arena","Nashville","Nashville, TN, USA","US","USA",-21600000
-"18429","2026-07-22 22:11:54.232","2026-07-22 22:11:54.232",18429,"Lenovo Center (formerly PNC Arena)","Raleigh","Raleigh, NC, USA","US","USA",-18000000
-"6983","2026-07-22 22:11:53.103","2026-07-22 22:11:53.103",6983,"Amerant Bank Arena (Formerly FLA Live Arena)","Sunrise","Sunrise, FL, USA","US","USA",-18000000
-"2513","2026-07-22 22:11:53.103","2026-07-22 22:11:53.103",2513,"Benchmark International Arena (Formerly Amalie Arena)","Tampa","Tampa, FL, USA","US","USA",-18000000
-"4063","2026-07-22 22:11:52.917","2026-07-22 22:11:52.917",4063,"Nationwide Arena","Columbus","Columbus, OH, USA","US","USA",-14400000
-"3573","2026-07-22 22:11:50.309","2026-07-22 22:11:50.309",3573,"KeyBank Center","Buffalo","Buffalo, NY, USA","US","USA",-14400000
-"10974","2026-07-22 22:11:50.309","2026-07-22 22:11:50.309",10974,"PPG Paints Arena","Pittsburgh","Pittsburgh, PA, USA","US","USA",-18000000
-"2039","2026-07-22 22:11:49.718","2026-07-22 22:11:49.718",2039,"SAP Center","San Jose","San Jose, CA, USA","US","USA",-28800000
-"3263","2026-07-22 22:11:49.718","2026-07-22 22:11:49.718",3263,"Grand Casino Arena","Saint Paul","Saint Paul, MN, USA","US","USA",-21600000
-"3356","2026-07-22 22:11:27.055","2026-07-22 22:11:27.055",3356,"Enterprise Center","St. Louis","St. Louis, MO, USA","US","USA",-21600000
-"8042","2026-07-22 22:11:22.425","2026-07-22 22:11:22.425",8042,"Toyota Arena","Ontario","Ontario, CA, USA","US","USA",-25200000
-"4260","2026-07-22 22:11:22.273","2026-07-22 22:11:22.273",4260,"Giant Center","Hershey","Hershey, PA, USA","US","USA",-14400000
-"20821","2026-07-22 22:09:56.850","2026-07-22 22:09:56.850",20821,"PPL Center","Allentown","Allentown, PA, USA","US","USA",-14400000
-"51798","2026-07-22 22:09:28.656","2026-07-22 22:09:28.656",51798,"RWJBarnabas Health Arena","Toms River","Toms River, NJ, USA","US","USA",-14400000
-"105578","2026-07-22 22:09:28.656","2026-07-22 22:09:28.656",105578,"Northwell Health Ice Center at Eisenhower Park","East Meadow","East Meadow, NY, USA","US","USA",-14400000
-"3913","2026-07-22 22:08:59.777","2026-07-22 22:08:59.777",3913,"First Horizon Coliseum at Greensboro Complex","Greensboro","Greensboro, NC, USA","US","USA",-14400000
-"4750","2026-07-22 22:07:58.860","2026-07-22 22:07:58.860",4750,"Rice Eccles Stadium","Salt Lake City","Salt Lake City, UT, USA","US","USA",-25200000
-"4695","2026-07-22 22:06:09.987","2026-07-22 22:06:09.987",4695,"Reliant Stadium at Reliant Park (formerly NRG Stadium at NRG Park) - Complex","Houston","Houston, TX, USA","US","USA",-21600000
-"86298","2026-07-22 22:06:09.987","2026-07-22 22:06:09.987",86298,"Allegiant Stadium","Las Vegas","Las Vegas, NV, USA","US","USA",-28800000
-"4509","2026-07-22 22:06:09.987","2026-07-22 22:06:09.987",4509,"Nissan Stadium","Nashville","Nashville, TN, USA","US","USA",-21600000
-"2309","2026-07-22 22:06:09.351","2026-07-22 22:06:09.351",2309,"Northwest Stadium (Formerly Commanders Field)","Landover","Landover, MD, USA","US","USA",-18000000
-"2346","2026-07-22 22:06:09.351","2026-07-22 22:06:09.351",2346,"EverBank Stadium","Jacksonville","Jacksonville, FL, USA","US","USA",-18000000
-"24207","2026-07-22 22:06:08.516","2026-07-22 22:06:08.516",24207,"US Bank Stadium","Minneapolis","Minneapolis, MN, USA","US","USA",-21600000
-"1695","2026-07-22 22:06:08.516","2026-07-22 22:06:08.516",1695,"State Farm Stadium","Glendale","Glendale, AZ, USA","US","USA",-25200000
-"3130","2026-07-22 22:06:08.358","2026-07-22 22:06:08.358",3130,"Ford Field","Detroit","Detroit, MI, USA","US","USA",-18000000
-"12236","2026-07-22 22:06:07.696","2026-07-22 22:06:07.696",12236,"MetLife Stadium","East Rutherford","East Rutherford, NJ, USA","US","USA",-14400000
-"6306","2026-07-22 22:06:07.696","2026-07-22 22:06:07.696",6306,"Lucas Oil Stadium","Indianapolis","Indianapolis, IN, USA","US","USA",-14400000
-"2970","2026-07-22 22:06:07.696","2026-07-22 22:06:07.696",2970,"M&T Bank Stadium","Baltimore","Baltimore, MD, USA","US","USA",-14400000
-"3976","2026-07-22 22:06:07.696","2026-07-22 22:06:07.696",3976,"Paycor Stadium (formerly Paul Brown Stadium)","Cincinnati","Cincinnati, OH, USA","US","USA",-18000000
-"20763","2026-07-22 22:06:04.992","2026-07-22 22:06:04.992",20763,"Levi's Stadium","Santa Clara","Santa Clara, CA, USA","US","USA",-25200000
-"4268","2026-07-22 22:06:04.421","2026-07-22 22:06:04.421",4268,"Lincoln Financial Field","Philadelphia","Philadelphia, PA, USA","US","USA",-14400000
-"2506","2026-07-22 22:06:02.871","2026-07-22 22:06:02.871",2506,"Raymond James Stadium","Tampa","Tampa, FL, USA","US","USA",-18000000
-"27372","2026-07-22 22:06:02.871","2026-07-22 22:06:02.871",27372,"Mercedes-Benz Stadium","Atlanta","Atlanta, GA, USA","US","USA",-18000000
-"2932","2026-07-22 22:06:02.871","2026-07-22 22:06:02.871",2932,"Caesars Superdome","New Orleans","New Orleans, LA, USA","US","USA",-21600000
-"2718","2026-07-22 22:06:00.475","2026-07-22 22:06:00.475",2718,"Soldier Field","Chicago","Chicago, IL, USA","US","USA",-21600000
-"3866","2026-07-22 22:06:00.098","2026-07-22 22:06:00.098",3866,"Bank of America Stadium","Charlotte","Charlotte, NC, USA","US","USA",-18000000
-"4866","2026-07-22 22:06:00.098","2026-07-22 22:06:00.098",4866,"Lumen Field at Lumen Field Event - Complex","Seattle","Seattle, WA, USA","US","USA",-28800000
-"81702","2026-07-22 22:06:00.098","2026-07-22 22:06:00.098",81702,"SoFi Stadium","Inglewood","Inglewood, CA, USA","US","USA",-28800000
-"3297","2026-07-22 22:05:59.474","2026-07-22 22:05:59.474",3297,"GEHA Field at Arrowhead Stadium","Kansas City","Kansas City, MO, USA","US","USA",-21600000
-"2234","2026-07-22 22:05:57.662","2026-07-22 22:05:57.662",2234,"Empower Field at Mile High","Denver","Denver, CO, USA","US","USA",-21600000
-"4339","2026-07-22 22:05:54.078","2026-07-22 22:05:54.078",4339,"Acrisure Stadium","Pittsburgh","Pittsburgh, PA, USA","US","USA",-18000000
-"150217721","2026-07-22 22:05:53.178","2026-07-22 22:05:53.178",150217721,"Highmark Stadium","Orchard Park","Orchard Park, NY, USA","US","USA",-18000000
-"3995","2026-07-22 22:05:52.505","2026-07-22 22:05:52.505",3995,"Huntington Bank Field (Formerly Cleveland Browns Stadium)","Cleveland","Cleveland, OH, USA","US","USA",-14400000
-"2390","2026-07-22 22:05:51.631","2026-07-22 22:05:51.631",2390,"Hard Rock Stadium - Complex","Miami","Miami, FL, USA","US","USA",-18000000
-"3027","2026-07-22 22:05:37.678","2026-07-22 22:05:37.678",3027,"Gillette Stadium","Foxborough","Foxborough, MA, USA","US","USA",-14400000
-"4914","2026-07-22 22:05:23.870","2026-07-22 22:05:23.870",4914,"Lambeau Field","Green Bay","Green Bay, WI, USA","US","USA",-21600000
-"150006149","2026-07-22 22:04:36.014","2026-07-22 22:04:36.014",150006149,"The Bar-Holmgren Way","Green Bay","Green Bay, WI, USA","US","USA",-21600000
-"25235","2026-07-22 22:04:15.270","2026-07-22 22:04:15.270",25235,"Tom Benson Hall of Fame Stadium","Canton","Canton, OH, USA","US","USA",-14400000
-"85028","2026-07-22 22:04:02.029","2026-07-22 22:04:02.029",85028,"Globe Life Field","Arlington","Arlington, TX, USA","US","USA",-21600000
-"10901","2026-07-22 22:03:58.629","2026-07-22 22:03:58.629",10901,"Target Field","Minneapolis","Minneapolis, MN, USA","US","USA",-18000000
-"1647","2026-07-22 22:03:37.802","2026-07-22 22:03:37.802",1647,"Chase Field","Phoenix","Phoenix, AZ, USA","US","USA",-25200000
-"4867","2026-07-22 22:03:36.873","2026-07-22 22:03:36.873",4867,"T-Mobile Park","Seattle","Seattle, WA, USA","US","USA",-25200000
-"3117","2026-07-22 22:03:36.844","2026-07-22 22:03:36.844",3117,"Comerica Park","Detroit","Detroit, MI, USA","US","USA",-14400000
-"6007","2026-07-22 22:03:36.844","2026-07-22 22:03:36.844",6007,"Nationals Park - Complex","Washington","Washington, DC, USA","US","USA",-14400000
-"3340","2026-07-22 22:03:35.522","2026-07-22 22:03:35.522",3340,"Busch Stadium","St. Louis","St. Louis, MO, USA","US","USA",-18000000
-"2176","2026-07-22 22:03:34.473","2026-07-22 22:03:34.473",2176,"Petco Park - Complex","San Diego","San Diego, CA, USA","US","USA",-25200000
-"2978","2026-07-22 22:03:33.528","2026-07-22 22:03:33.528",2978,"Oriole Park at Camden Yards","Baltimore","Baltimore, MD, USA","US","USA",-14400000
-"1817","2026-07-22 22:03:32.775","2026-07-22 22:03:32.775",1817,"UNIQLO Field at Dodger Stadium","Los Angeles","Los Angeles, CA, USA","US","USA",-25200000
-"5765","2026-07-22 22:03:32.496","2026-07-22 22:03:32.496",5765,"Rate Field","Chicago","Chicago, IL, USA","US","USA",-18000000
-"4944","2026-07-22 22:03:32.496","2026-07-22 22:03:32.496",4944,"American Family Field","Milwaukee","Milwaukee, WI, USA","US","USA",-18000000
-"3313","2026-07-22 22:03:32.454","2026-07-22 22:03:32.454",3313,"Kauffman Stadium","Kansas City","Kansas City, MO, USA","US","USA",-18000000
-"83918","2026-07-22 22:03:32.454","2026-07-22 22:03:32.454",83918,"Sutter Health Park","Sacramento","Sacramento, CA, USA","US","USA",-25200000
-"4009","2026-07-22 22:03:30.658","2026-07-22 22:03:30.658",4009,"Progressive Field","Cleveland","Cleveland, OH, USA","US","USA",-14400000
-"3844","2026-07-22 22:03:30.658","2026-07-22 22:03:30.658",3844,"Yankee Stadium","Bronx","Bronx, NY, USA","US","USA",-14400000
-"1780","2026-07-22 22:03:29.576","2026-07-22 22:03:29.576",1780,"Angel Stadium","Anaheim","Anaheim, CA, USA","US","USA",-25200000
-"16540","2026-07-22 22:03:28.768","2026-07-22 22:03:28.768",16540,"loanDepot Park","Miami","Miami, FL, USA","US","USA",-14400000
-"8399","2026-07-22 22:03:27.448","2026-07-22 22:03:27.448",8399,"Citi Field","Flushing","Flushing, NY, USA","US","USA",-14400000
-"4241","2026-07-22 22:03:27.186","2026-07-22 22:03:27.186",4241,"Citizens Bank Park","Philadelphia","Philadelphia, PA, USA","US","USA",-14400000
-"2522","2026-07-22 22:03:27.186","2026-07-22 22:03:27.186",2522,"Tropicana Field","St. Petersburg","St. Petersburg, FL, USA","US","USA",-14400000
-"4686","2026-07-22 22:03:25.007","2026-07-22 22:03:25.007",4686,"Daikin Park (formerly Minute Maid Park) - Complex","Houston","Houston, TX, USA","US","USA",-18000000
-"2737","2026-07-22 22:03:24.944","2026-07-22 22:03:24.944",2737,"Wrigley Field","Chicago","Chicago, IL, USA","US","USA",-18000000
-"26643","2026-07-22 22:03:24.605","2026-07-22 22:03:24.605",26643,"Truist Park","Atlanta","Atlanta, GA, USA","US","USA",-14400000
-"3025","2026-07-22 22:03:22.965","2026-07-22 22:03:22.965",3025,"Fenway Park","Boston","Boston, MA, USA","US","USA",-14400000
-"4350","2026-07-22 22:03:18.532","2026-07-22 22:03:18.532",4350,"PNC Park","Pittsburgh","Pittsburgh, PA, USA","US","USA",-14400000
-"1989","2026-07-22 22:03:16.684","2026-07-22 22:03:16.684",1989,"Oracle Park","San Francisco","San Francisco, CA, USA","US","USA",-25200000
-"2218","2026-07-22 22:03:15.792","2026-07-22 22:03:15.792",2218,"Coors Field","Denver","Denver, CO, USA","US","USA",-21600000
-"3969","2026-07-22 22:03:08.944","2026-07-22 22:03:08.944",3969,"Great American Ball Park","Cincinnati","Cincinnati, OH, USA","US","USA",-14400000
-"94184","2026-07-22 22:02:36.391","2026-07-22 22:02:36.391",94184,"Field of Dreams Movie Site","Dyersville","Dyersville, IA, USA","US","USA",-18000000
-"32152","2026-07-22 22:02:18.876","2026-07-22 22:02:18.876",32152,"Journey Bank Ballpark at Historic Bowman Field (Formerly Journey Bank Ballpark)","Williamsport","Williamsport, PA, USA","US","USA",-14400000
-"6017","2026-07-22 22:00:33.093","2026-07-22 22:00:33.093",6017,"LA Memorial Coliseum - Complex","Los Angeles","Los Angeles, CA, USA","US","USA",-25200000
-"4202","2026-07-22 22:00:20.963","2026-07-22 22:00:20.963",4202,"Hayward Field","Eugene","Eugene, OR, USA","US","USA",-25200000
+"4728","2026-07-23 22:03:50.484","2026-07-23 22:03:50.484",4728,"Delta Center","Salt Lake City","Salt Lake City, UT, USA","US","USA",-25200000
+"2333","2026-07-23 22:03:50.443","2026-07-23 22:03:50.443",2333,"Capital One Arena","Washington","Washington, DC, USA","US","USA",-14400000
+"1530","2026-07-23 22:03:50.402","2026-07-23 22:03:50.402",1530,"Scotiabank Arena","Toronto","Toronto, Canada","CA","Canada",-14400000
+"70408","2026-07-23 22:03:49.563","2026-07-23 22:03:49.563",70408,"Chase Center","San Francisco","San Francisco, CA, USA","US","USA",-25200000
+"4533","2026-07-23 22:03:49.563","2026-07-23 22:03:49.563",4533,"Frost Bank Center (Formerly AT&T Center)","San Antonio","San Antonio, TX, USA","US","USA",-18000000
+"23645","2026-07-23 22:03:49.563","2026-07-23 22:03:49.563",23645,"Golden 1 Center","Sacramento","Sacramento, CA, USA","US","USA",-28800000
+"1694","2026-07-23 22:03:49.563","2026-07-23 22:03:49.563",1694,"Mortgage Matchup Center (formerly PHX Arena)","Phoenix","Phoenix, AZ, USA","US","USA",-25200000
+"8381","2026-07-23 22:03:49.536","2026-07-23 22:03:49.536",8381,"Moda Center - Complex","Portland","Portland, OR, USA","US","USA",-28800000
+"2447","2026-07-23 22:03:49.130","2026-07-23 22:03:49.130",2447,"Kia Center (Formerly Amway Center)","Orlando","Orlando, FL, USA","US","USA",-14400000
+"4319","2026-07-23 22:03:49.099","2026-07-23 22:03:49.099",4319,"Xfinity Mobile Arena (formerly Wells Fargo Center Philadelphia)","Philadelphia","Philadelphia, PA, USA","US","USA",-14400000
+"6656","2026-07-23 22:03:49.099","2026-07-23 22:03:49.099",6656,"TD Garden","Boston","Boston, MA, USA","US","USA",-14400000
+"4090","2026-07-23 22:03:48.703","2026-07-23 22:03:48.703",4090,"Paycom Center","Oklahoma City","Oklahoma City, OK, USA","US","USA",-21600000
+"6015","2026-07-23 22:03:48.703","2026-07-23 22:03:48.703",6015,"BOK Center","Tulsa","Tulsa, OK, USA","US","USA",-18000000
+"2578","2026-07-23 22:03:48.703","2026-07-23 22:03:48.703",2578,"State Farm Arena","Atlanta","Atlanta, GA, USA","US","USA",-14400000
+"2915","2026-07-23 22:03:48.659","2026-07-23 22:03:48.659",2915,"Smoothie King Center","New Orleans","New Orleans, LA, USA","US","USA",-21600000
+"2366","2026-07-23 22:03:48.659","2026-07-23 22:03:48.659",2366,"Kaseya Center","Miami","Miami, FL, USA","US","USA",-14400000
+"3708","2026-07-23 22:03:48.615","2026-07-23 22:03:48.615",3708,"Madison Square Garden","New York","New York, NY, USA","US","USA",-14400000
+"3254","2026-07-23 22:03:48.225","2026-07-23 22:03:48.225",3254,"Target Center","Minneapolis","Minneapolis, MN, USA","US","USA",-18000000
+"37407","2026-07-23 22:03:48.168","2026-07-23 22:03:48.168",37407,"Fiserv Forum","Milwaukee","Milwaukee, WI, USA","US","USA",-21600000
+"1934","2026-07-23 22:03:47.719","2026-07-23 22:03:47.719",1934,"Crypto.com Arena","Los Angeles","Los Angeles, CA, USA","US","USA",-28800000
+"4478","2026-07-23 22:03:47.701","2026-07-23 22:03:47.701",4478,"FedExForum","Memphis","Memphis, TN, USA","US","USA",-21600000
+"150077022","2026-07-23 22:03:47.617","2026-07-23 22:03:47.617",150077022,"Intuit Dome","Inglewood","Inglewood, CA, USA","US","USA",-28800000
+"4706","2026-07-23 22:03:47.278","2026-07-23 22:03:47.278",4706,"Toyota Center","Houston","Houston, TX, USA","US","USA",-21600000
+"2747","2026-07-23 22:03:47.223","2026-07-23 22:03:47.223",2747,"Gainbridge Fieldhouse","Indianapolis","Indianapolis, IN, USA","US","USA",-14400000
+"26803","2026-07-23 22:03:46.758","2026-07-23 22:03:46.758",26803,"Little Caesars Arena","Detroit","Detroit, MI, USA","US","USA",-18000000
+"2242","2026-07-23 22:03:46.737","2026-07-23 22:03:46.737",2242,"Ball Arena","Denver","Denver, CO, USA","US","USA",-25200000
+"4577","2026-07-23 22:03:46.720","2026-07-23 22:03:46.720",4577,"American Airlines Center","Dallas","Dallas, TX, USA","US","USA",-21600000
+"6911","2026-07-23 22:03:46.310","2026-07-23 22:03:46.310",6911,"Spectrum Center","Charlotte","Charlotte, NC, USA","US","USA",-14400000
+"4026","2026-07-23 22:03:46.301","2026-07-23 22:03:46.301",4026,"Rocket Arena (formerly Rocket Mortgage FieldHouse)","Cleveland","Cleveland, OH, USA","US","USA",-14400000
+"2734","2026-07-23 22:03:46.241","2026-07-23 22:03:46.241",2734,"United Center","Chicago","Chicago, IL, USA","US","USA",-18000000
+"17278","2026-07-23 22:03:45.334","2026-07-23 22:03:45.334",17278,"Barclays Center","Brooklyn","Brooklyn, NY, USA","US","USA",-14400000
+"4063","2026-07-23 22:03:44.899","2026-07-23 22:03:44.899",4063,"Nationwide Arena","Columbus","Columbus, OH, USA","US","USA",-14400000
+"10974","2026-07-23 22:03:43.641","2026-07-23 22:03:43.641",10974,"PPG Paints Arena","Pittsburgh","Pittsburgh, PA, USA","US","USA",-18000000
+"3573","2026-07-23 22:03:43.641","2026-07-23 22:03:43.641",3573,"KeyBank Center","Buffalo","Buffalo, NY, USA","US","USA",-14400000
+"92856","2026-07-23 22:03:42.967","2026-07-23 22:03:42.967",92856,"UBS Arena","Elmont","Elmont, NY, USA","US","USA",-18000000
+"3263","2026-07-23 22:03:42.967","2026-07-23 22:03:42.967",3263,"Grand Casino Arena","Saint Paul","Saint Paul, MN, USA","US","USA",-21600000
+"23463","2026-07-23 22:03:42.650","2026-07-23 22:03:42.650",23463,"T-Mobile Arena","Las Vegas","Las Vegas, NV, USA","US","USA",-25200000
+"94210","2026-07-23 22:03:42.149","2026-07-23 22:03:42.149",94210,"Climate Pledge Arena","Seattle","Seattle, WA, USA","US","USA",-25200000
+"6983","2026-07-23 22:03:41.846","2026-07-23 22:03:41.846",6983,"Amerant Bank Arena (Formerly FLA Live Arena)","Sunrise","Sunrise, FL, USA","US","USA",-18000000
+"3750","2026-07-23 22:03:41.846","2026-07-23 22:03:41.846",3750,"Prudential Center","Newark","Newark, NJ, USA","US","USA",-18000000
+"1848","2026-07-23 22:03:41.670","2026-07-23 22:03:41.670",1848,"Honda Center","Anaheim","Anaheim, CA, USA","US","USA",-25200000
+"2039","2026-07-23 22:03:40.855","2026-07-23 22:03:40.855",2039,"SAP Center","San Jose","San Jose, CA, USA","US","USA",-28800000
+"9243","2026-07-23 22:03:40.704","2026-07-23 22:03:40.704",9243,"AT&T Stadium","Arlington","Arlington, TX, USA","US","USA",-21600000
+"4523","2026-07-23 22:03:40.243","2026-07-23 22:03:40.243",4523,"Bridgestone Arena","Nashville","Nashville, TN, USA","US","USA",-21600000
+"18429","2026-07-23 22:03:40.243","2026-07-23 22:03:40.243",18429,"Lenovo Center (formerly PNC Arena)","Raleigh","Raleigh, NC, USA","US","USA",-18000000
+"2513","2026-07-23 22:03:39.850","2026-07-23 22:03:39.850",2513,"Benchmark International Arena (Formerly Amalie Arena)","Tampa","Tampa, FL, USA","US","USA",-18000000
+"3356","2026-07-23 22:03:39.765","2026-07-23 22:03:39.765",3356,"Enterprise Center","St. Louis","St. Louis, MO, USA","US","USA",-21600000
+"4260","2026-07-23 22:03:36.940","2026-07-23 22:03:36.940",4260,"Giant Center","Hershey","Hershey, PA, USA","US","USA",-14400000
+"8042","2026-07-23 22:03:36.629","2026-07-23 22:03:36.629",8042,"Toyota Arena","Ontario","Ontario, CA, USA","US","USA",-25200000
+"20821","2026-07-23 22:03:06.929","2026-07-23 22:03:06.929",20821,"PPL Center","Allentown","Allentown, PA, USA","US","USA",-14400000
+"51798","2026-07-23 22:02:56.192","2026-07-23 22:02:56.192",51798,"RWJBarnabas Health Arena","Toms River","Toms River, NJ, USA","US","USA",-14400000
+"105578","2026-07-23 22:02:56.192","2026-07-23 22:02:56.192",105578,"Northwell Health Ice Center at Eisenhower Park","East Meadow","East Meadow, NY, USA","US","USA",-14400000
+"3913","2026-07-23 22:02:45.306","2026-07-23 22:02:45.306",3913,"First Horizon Coliseum at Greensboro Complex","Greensboro","Greensboro, NC, USA","US","USA",-14400000
+"4750","2026-07-23 22:02:18.270","2026-07-23 22:02:18.270",4750,"Rice Eccles Stadium","Salt Lake City","Salt Lake City, UT, USA","US","USA",-25200000
+"4509","2026-07-23 22:01:55.476","2026-07-23 22:01:55.476",4509,"Nissan Stadium","Nashville","Nashville, TN, USA","US","USA",-21600000
+"4695","2026-07-23 22:01:55.476","2026-07-23 22:01:55.476",4695,"Reliant Stadium at Reliant Park (formerly NRG Stadium at NRG Park) - Complex","Houston","Houston, TX, USA","US","USA",-21600000
+"86298","2026-07-23 22:01:55.476","2026-07-23 22:01:55.476",86298,"Allegiant Stadium","Las Vegas","Las Vegas, NV, USA","US","USA",-28800000
+"2346","2026-07-23 22:01:55.137","2026-07-23 22:01:55.137",2346,"EverBank Stadium","Jacksonville","Jacksonville, FL, USA","US","USA",-18000000
+"2309","2026-07-23 22:01:55.137","2026-07-23 22:01:55.137",2309,"Northwest Stadium (Formerly Commanders Field)","Landover","Landover, MD, USA","US","USA",-18000000
+"3130","2026-07-23 22:01:55.051","2026-07-23 22:01:55.051",3130,"Ford Field","Detroit","Detroit, MI, USA","US","USA",-18000000
+"1695","2026-07-23 22:01:54.744","2026-07-23 22:01:54.744",1695,"State Farm Stadium","Glendale","Glendale, AZ, USA","US","USA",-25200000
+"24207","2026-07-23 22:01:54.744","2026-07-23 22:01:54.744",24207,"US Bank Stadium","Minneapolis","Minneapolis, MN, USA","US","USA",-21600000
+"12236","2026-07-23 22:01:54.471","2026-07-23 22:01:54.471",12236,"MetLife Stadium","East Rutherford","East Rutherford, NJ, USA","US","USA",-14400000
+"6306","2026-07-23 22:01:54.471","2026-07-23 22:01:54.471",6306,"Lucas Oil Stadium","Indianapolis","Indianapolis, IN, USA","US","USA",-14400000
+"2970","2026-07-23 22:01:54.471","2026-07-23 22:01:54.471",2970,"M&T Bank Stadium","Baltimore","Baltimore, MD, USA","US","USA",-14400000
+"3976","2026-07-23 22:01:54.471","2026-07-23 22:01:54.471",3976,"Paycor Stadium (formerly Paul Brown Stadium)","Cincinnati","Cincinnati, OH, USA","US","USA",-18000000
+"20763","2026-07-23 22:01:54.317","2026-07-23 22:01:54.317",20763,"Levi's Stadium","Santa Clara","Santa Clara, CA, USA","US","USA",-25200000
+"4268","2026-07-23 22:01:53.934","2026-07-23 22:01:53.934",4268,"Lincoln Financial Field","Philadelphia","Philadelphia, PA, USA","US","USA",-14400000
+"4866","2026-07-23 22:01:53.461","2026-07-23 22:01:53.461",4866,"Lumen Field at Lumen Field Event - Complex","Seattle","Seattle, WA, USA","US","USA",-28800000
+"3866","2026-07-23 22:01:53.461","2026-07-23 22:01:53.461",3866,"Bank of America Stadium","Charlotte","Charlotte, NC, USA","US","USA",-18000000
+"81702","2026-07-23 22:01:53.461","2026-07-23 22:01:53.461",81702,"SoFi Stadium","Inglewood","Inglewood, CA, USA","US","USA",-28800000
+"27372","2026-07-23 22:01:53.433","2026-07-23 22:01:53.433",27372,"Mercedes-Benz Stadium","Atlanta","Atlanta, GA, USA","US","USA",-18000000
+"2932","2026-07-23 22:01:53.433","2026-07-23 22:01:53.433",2932,"Caesars Superdome","New Orleans","New Orleans, LA, USA","US","USA",-21600000
+"2506","2026-07-23 22:01:53.433","2026-07-23 22:01:53.433",2506,"Raymond James Stadium","Tampa","Tampa, FL, USA","US","USA",-18000000
+"3297","2026-07-23 22:01:53.047","2026-07-23 22:01:53.047",3297,"GEHA Field at Arrowhead Stadium","Kansas City","Kansas City, MO, USA","US","USA",-21600000
+"2718","2026-07-23 22:01:52.962","2026-07-23 22:01:52.962",2718,"Soldier Field","Chicago","Chicago, IL, USA","US","USA",-21600000
+"2234","2026-07-23 22:01:52.407","2026-07-23 22:01:52.407",2234,"Empower Field at Mile High","Denver","Denver, CO, USA","US","USA",-21600000
+"150217721","2026-07-23 22:01:51.512","2026-07-23 22:01:51.512",150217721,"Highmark Stadium","Orchard Park","Orchard Park, NY, USA","US","USA",-18000000
+"2390","2026-07-23 22:01:50.963","2026-07-23 22:01:50.963",2390,"Hard Rock Stadium - Complex","Miami","Miami, FL, USA","US","USA",-18000000
+"4339","2026-07-23 22:01:50.721","2026-07-23 22:01:50.721",4339,"Acrisure Stadium","Pittsburgh","Pittsburgh, PA, USA","US","USA",-18000000
+"3027","2026-07-23 22:01:50.545","2026-07-23 22:01:50.545",3027,"Gillette Stadium","Foxborough","Foxborough, MA, USA","US","USA",-14400000
+"3995","2026-07-23 22:01:50.307","2026-07-23 22:01:50.307",3995,"Huntington Bank Field (Formerly Cleveland Browns Stadium)","Cleveland","Cleveland, OH, USA","US","USA",-14400000
+"4914","2026-07-23 22:01:46.816","2026-07-23 22:01:46.816",4914,"Lambeau Field","Green Bay","Green Bay, WI, USA","US","USA",-21600000
+"150006149","2026-07-23 22:01:40.437","2026-07-23 22:01:40.437",150006149,"The Bar-Holmgren Way","Green Bay","Green Bay, WI, USA","US","USA",-21600000
+"25235","2026-07-23 22:01:35.618","2026-07-23 22:01:35.618",25235,"Tom Benson Hall of Fame Stadium","Canton","Canton, OH, USA","US","USA",-14400000
+"85028","2026-07-23 22:01:33.175","2026-07-23 22:01:33.175",85028,"Globe Life Field","Arlington","Arlington, TX, USA","US","USA",-21600000
+"10901","2026-07-23 22:01:31.714","2026-07-23 22:01:31.714",10901,"Target Field","Minneapolis","Minneapolis, MN, USA","US","USA",-18000000
+"6007","2026-07-23 22:01:31.595","2026-07-23 22:01:31.595",6007,"Nationals Park - Complex","Washington","Washington, DC, USA","US","USA",-14400000
+"3117","2026-07-23 22:01:31.595","2026-07-23 22:01:31.595",3117,"Comerica Park","Detroit","Detroit, MI, USA","US","USA",-14400000
+"3340","2026-07-23 22:01:31.135","2026-07-23 22:01:31.135",3340,"Busch Stadium","St. Louis","St. Louis, MO, USA","US","USA",-18000000
+"2176","2026-07-23 22:01:30.746","2026-07-23 22:01:30.746",2176,"Petco Park - Complex","San Diego","San Diego, CA, USA","US","USA",-25200000
+"1647","2026-07-23 22:01:30.715","2026-07-23 22:01:30.715",1647,"Chase Field","Phoenix","Phoenix, AZ, USA","US","USA",-25200000
+"4867","2026-07-23 22:01:30.715","2026-07-23 22:01:30.715",4867,"T-Mobile Park","Seattle","Seattle, WA, USA","US","USA",-25200000
+"1817","2026-07-23 22:01:30.275","2026-07-23 22:01:30.275",1817,"UNIQLO Field at Dodger Stadium","Los Angeles","Los Angeles, CA, USA","US","USA",-25200000
+"2978","2026-07-23 22:01:29.959","2026-07-23 22:01:29.959",2978,"Oriole Park at Camden Yards","Baltimore","Baltimore, MD, USA","US","USA",-14400000
+"5765","2026-07-23 22:01:29.866","2026-07-23 22:01:29.866",5765,"Rate Field","Chicago","Chicago, IL, USA","US","USA",-18000000
+"4944","2026-07-23 22:01:29.866","2026-07-23 22:01:29.866",4944,"American Family Field","Milwaukee","Milwaukee, WI, USA","US","USA",-18000000
+"83918","2026-07-23 22:01:29.543","2026-07-23 22:01:29.543",83918,"Sutter Health Park","Sacramento","Sacramento, CA, USA","US","USA",-25200000
+"3313","2026-07-23 22:01:29.543","2026-07-23 22:01:29.543",3313,"Kauffman Stadium","Kansas City","Kansas City, MO, USA","US","USA",-18000000
+"16540","2026-07-23 22:01:29.435","2026-07-23 22:01:29.435",16540,"loanDepot Park","Miami","Miami, FL, USA","US","USA",-14400000
+"8399","2026-07-23 22:01:28.741","2026-07-23 22:01:28.741",8399,"Citi Field","Flushing","Flushing, NY, USA","US","USA",-14400000
+"4009","2026-07-23 22:01:28.728","2026-07-23 22:01:28.728",4009,"Progressive Field","Cleveland","Cleveland, OH, USA","US","USA",-14400000
+"3844","2026-07-23 22:01:28.728","2026-07-23 22:01:28.728",3844,"Yankee Stadium","Bronx","Bronx, NY, USA","US","USA",-14400000
+"1780","2026-07-23 22:01:28.675","2026-07-23 22:01:28.675",1780,"Angel Stadium","Anaheim","Anaheim, CA, USA","US","USA",-25200000
+"4241","2026-07-23 22:01:28.291","2026-07-23 22:01:28.291",4241,"Citizens Bank Park","Philadelphia","Philadelphia, PA, USA","US","USA",-14400000
+"2522","2026-07-23 22:01:28.291","2026-07-23 22:01:28.291",2522,"Tropicana Field","St. Petersburg","St. Petersburg, FL, USA","US","USA",-14400000
+"26643","2026-07-23 22:01:27.864","2026-07-23 22:01:27.864",26643,"Truist Park","Atlanta","Atlanta, GA, USA","US","USA",-14400000
+"2737","2026-07-23 22:01:27.861","2026-07-23 22:01:27.861",2737,"Wrigley Field","Chicago","Chicago, IL, USA","US","USA",-18000000
+"4686","2026-07-23 22:01:27.861","2026-07-23 22:01:27.861",4686,"Daikin Park (formerly Minute Maid Park) - Complex","Houston","Houston, TX, USA","US","USA",-18000000
+"3025","2026-07-23 22:01:27.449","2026-07-23 22:01:27.449",3025,"Fenway Park","Boston","Boston, MA, USA","US","USA",-14400000
+"4350","2026-07-23 22:01:25.794","2026-07-23 22:01:25.794",4350,"PNC Park","Pittsburgh","Pittsburgh, PA, USA","US","USA",-14400000
+"1989","2026-07-23 22:01:24.506","2026-07-23 22:01:24.506",1989,"Oracle Park","San Francisco","San Francisco, CA, USA","US","USA",-25200000
+"2218","2026-07-23 22:01:24.079","2026-07-23 22:01:24.079",2218,"Coors Field","Denver","Denver, CO, USA","US","USA",-21600000
+"3969","2026-07-23 22:01:22.969","2026-07-23 22:01:22.969",3969,"Great American Ball Park","Cincinnati","Cincinnati, OH, USA","US","USA",-14400000
+"94184","2026-07-23 22:01:09.710","2026-07-23 22:01:09.710",94184,"Field of Dreams Movie Site","Dyersville","Dyersville, IA, USA","US","USA",-18000000
+"32152","2026-07-23 22:01:03.281","2026-07-23 22:01:03.281",32152,"Journey Bank Ballpark at Historic Bowman Field (Formerly Journey Bank Ballpark)","Williamsport","Williamsport, PA, USA","US","USA",-14400000
+"6017","2026-07-23 22:00:31.660","2026-07-23 22:00:31.660",6017,"LA Memorial Coliseum - Complex","Los Angeles","Los Angeles, CA, USA","US","USA",-25200000
+"4202","2026-07-23 22:00:21.498","2026-07-23 22:00:21.498",4202,"Hayward Field","Eugene","Eugene, OR, USA","US","USA",-25200000
 "3456","2026-07-19 22:04:06.518","2026-07-19 22:04:06.518",3456,"Thomas and Mack Center","Las Vegas","Las Vegas, NV, USA","US","USA",-25200000
 "5768","2026-07-17 22:03:08.756","2026-07-17 22:03:08.756",5768,"Garden Arena at MGM Grand Hotel & Casino Las Vegas","Las Vegas","Las Vegas, NV, USA","US","USA",-28800000
 "105427","2026-07-13 22:02:13.686","2026-07-13 22:02:13.686",105427,"Centre Slush Puppie Gatineau","Gatineau","Gatineau, Canada","CA","Canada",-14400000
