@@ -73,7 +73,7 @@
     "name": "seatFrom",
     "type": "string",
     "description": "Starting seat number (e.g., \"1\", \"5\", \"12\")",
-    "fillRate": 36,
+    "fillRate": 37,
     "premium": false
   },
   {
