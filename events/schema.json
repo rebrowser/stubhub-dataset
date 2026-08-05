@@ -136,7 +136,7 @@
     "name": "onSaleDateTime",
     "type": "datetime",
     "description": "When tickets go on sale (UTC)",
-    "fillRate": 84,
+    "fillRate": 85,
     "premium": false
   },
   {
