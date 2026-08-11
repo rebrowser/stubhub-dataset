@@ -55,26 +55,26 @@
           rx="1" fill="#22c55eb3" />
   <rect x="599" y="203" width="28" height="37"
           rx="1" fill="#22c55eb3" />
-  <rect x="629" y="219" width="28" height="21"
+  <rect x="629" y="218" width="28" height="22"
           rx="1" fill="#22c55eb3" />
-  <rect x="659" y="213" width="28" height="27"
+  <rect x="659" y="212" width="28" height="28"
           rx="1" fill="#22c55eb3" />
-  <rect x="689" y="198" width="28" height="42"
+  <rect x="689" y="191" width="28" height="49"
           rx="1" fill="#22c55eb3" />
-  <rect x="719" y="197" width="28" height="43"
+  <rect x="719" y="191" width="28" height="49"
           rx="1" fill="#22c55eb3" />
-  <rect x="749" y="207" width="28" height="33"
+  <rect x="749" y="206" width="28" height="34"
           rx="1" fill="#22c55eb3" />
-  <rect x="779" y="201" width="28" height="39"
+  <rect x="779" y="205" width="28" height="35"
           rx="1" fill="#22c55eb3" />
-  <rect x="809" y="239" width="28" height="1"
+  <rect x="809" y="233" width="28" height="7"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="73,240 103,221 133,203 163,184 193,166 223,148 253,134 283,119 313,110 343,105 373,101 403,97 433,93 463,91 493,88 523,84 553,80 583,77 613,73 643,71 673,68 703,63 733,58 763,54 793,50 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="73,240 103,221 133,204 163,185 193,167 223,149 253,135 283,121 313,111 343,106 373,102 403,99 433,95 463,93 493,90 523,86 553,82 583,79 613,75 643,73 673,69 703,64 733,58 763,55 793,51 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >128M</text>
+           >129M</text>
   <text x="52" y="149" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
            >104M</text>
