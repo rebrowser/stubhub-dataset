@@ -66,7 +66,7 @@
     "name": "seat",
     "type": "string",
     "description": "Seat range (e.g., \"5_6\", \"1_6\", \"12_13\") or null if unassigned",
-    "fillRate": 60,
+    "fillRate": 61,
     "premium": false
   },
   {
