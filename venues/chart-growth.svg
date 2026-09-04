@@ -33,7 +33,7 @@
           rx="1" fill="#22c55eb3" />
   <rect x="423" y="239" width="50" height="1"
           rx="1" fill="#22c55eb3" />
-  <rect x="475" y="227" width="50" height="13"
+  <rect x="475" y="228" width="50" height="12"
           rx="1" fill="#22c55eb3" />
   <rect x="527" y="239" width="50" height="1"
           rx="1" fill="#22c55eb3" />
@@ -48,24 +48,24 @@
   <rect x="787" y="73" width="50" height="167"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="84,240 136,226 188,215 240,214 292,213 344,212 396,198 448,197 500,188 552,187 604,185 656,178 708,177 760,175 812,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="84,240 136,227 188,215 240,214 292,213 344,212 396,199 448,198 500,188 552,187 604,185 656,179 708,178 760,176 812,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >216</text>
+           >218</text>
   <text x="52" y="149" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >125</text>
+           >126</text>
   <text x="52" y="240" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
            >34</text>
   <!-- right y-axis labels (Added) -->
   <text x="854" y="56" text-anchor="start"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#22c55e"
-           >120</text>
+           >122</text>
   <text x="854" y="149" text-anchor="start"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#22c55e"
-           >60</text>
+           >61</text>
   <text x="854" y="240" text-anchor="start"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#22c55e"
            >0</text>
