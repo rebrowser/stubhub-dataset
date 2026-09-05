@@ -33,7 +33,7 @@
           rx="1" fill="#22c55eb3" />
   <rect x="269" y="205" width="28" height="35"
           rx="1" fill="#22c55eb3" />
-  <rect x="299" y="209" width="28" height="31"
+  <rect x="299" y="208" width="28" height="32"
           rx="1" fill="#22c55eb3" />
   <rect x="329" y="203" width="28" height="37"
           rx="1" fill="#22c55eb3" />
@@ -51,30 +51,30 @@
           rx="1" fill="#22c55eb3" />
   <rect x="539" y="217" width="28" height="23"
           rx="1" fill="#22c55eb3" />
-  <rect x="569" y="211" width="28" height="29"
+  <rect x="569" y="212" width="28" height="28"
           rx="1" fill="#22c55eb3" />
-  <rect x="599" y="182" width="28" height="58"
+  <rect x="599" y="187" width="28" height="53"
           rx="1" fill="#22c55eb3" />
-  <rect x="629" y="187" width="28" height="53"
+  <rect x="629" y="189" width="28" height="51"
           rx="1" fill="#22c55eb3" />
   <rect x="659" y="206" width="28" height="34"
           rx="1" fill="#22c55eb3" />
-  <rect x="689" y="205" width="28" height="35"
+  <rect x="689" y="203" width="28" height="37"
           rx="1" fill="#22c55eb3" />
-  <rect x="719" y="165" width="28" height="75"
+  <rect x="719" y="157" width="28" height="83"
           rx="1" fill="#22c55eb3" />
-  <rect x="749" y="175" width="28" height="65"
+  <rect x="749" y="169" width="28" height="71"
           rx="1" fill="#22c55eb3" />
-  <rect x="779" y="182" width="28" height="58"
+  <rect x="779" y="174" width="28" height="66"
           rx="1" fill="#22c55eb3" />
-  <rect x="809" y="217" width="28" height="23"
+  <rect x="809" y="203" width="28" height="37"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="73,240 103,218 133,198 163,181 193,164 223,153 253,148 283,143 313,139 343,134 373,131 403,128 433,123 463,119 493,115 523,110 553,107 583,103 613,95 643,88 673,84 703,79 733,69 763,61 793,53 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="73,240 103,219 133,199 163,182 193,166 223,155 253,150 283,145 313,141 343,136 373,134 403,130 433,126 463,121 493,117 523,112 553,110 583,106 613,99 643,92 673,88 703,83 733,73 763,63 793,55 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >136M</text>
+           >137M</text>
   <text x="52" y="149" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
            >115M</text>
