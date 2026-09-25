@@ -29,7 +29,7 @@
           rx="1" fill="#22c55eb3" />
   <rect x="209" y="199" width="28" height="41"
           rx="1" fill="#22c55eb3" />
-  <rect x="239" y="192" width="28" height="48"
+  <rect x="239" y="191" width="28" height="49"
           rx="1" fill="#22c55eb3" />
   <rect x="269" y="215" width="28" height="25"
           rx="1" fill="#22c55eb3" />
@@ -45,36 +45,36 @@
           rx="1" fill="#22c55eb3" />
   <rect x="449" y="210" width="28" height="30"
           rx="1" fill="#22c55eb3" />
-  <rect x="479" y="203" width="28" height="37"
+  <rect x="479" y="202" width="28" height="38"
           rx="1" fill="#22c55eb3" />
-  <rect x="509" y="169" width="28" height="71"
+  <rect x="509" y="165" width="28" height="75"
           rx="1" fill="#22c55eb3" />
-  <rect x="539" y="173" width="28" height="67"
+  <rect x="539" y="170" width="28" height="70"
           rx="1" fill="#22c55eb3" />
-  <rect x="569" y="195" width="28" height="45"
+  <rect x="569" y="194" width="28" height="46"
           rx="1" fill="#22c55eb3" />
   <rect x="599" y="192" width="28" height="48"
           rx="1" fill="#22c55eb3" />
-  <rect x="629" y="131" width="28" height="109"
+  <rect x="629" y="133" width="28" height="107"
           rx="1" fill="#22c55eb3" />
-  <rect x="659" y="149" width="28" height="91"
+  <rect x="659" y="150" width="28" height="90"
           rx="1" fill="#22c55eb3" />
-  <rect x="689" y="156" width="28" height="84"
+  <rect x="689" y="157" width="28" height="83"
           rx="1" fill="#22c55eb3" />
-  <rect x="719" y="182" width="28" height="58"
+  <rect x="719" y="178" width="28" height="62"
           rx="1" fill="#22c55eb3" />
-  <rect x="749" y="188" width="28" height="52"
+  <rect x="749" y="180" width="28" height="60"
           rx="1" fill="#22c55eb3" />
-  <rect x="779" y="190" width="28" height="50"
+  <rect x="779" y="175" width="28" height="65"
           rx="1" fill="#22c55eb3" />
-  <rect x="809" y="231" width="28" height="9"
+  <rect x="809" y="213" width="28" height="27"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="73,240 103,219 133,204 163,197 193,191 223,185 253,179 283,176 313,171 343,165 373,159 403,155 433,148 463,144 493,140 523,130 553,121 583,116 613,109 643,95 673,83 703,72 733,65 763,58 793,51 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="73,240 103,219 133,205 163,198 193,192 223,187 253,181 283,178 313,173 343,167 373,162 403,157 433,151 463,147 493,143 523,133 553,124 583,118 613,112 643,99 673,87 703,77 733,69 763,62 793,53 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >139M</text>
+           >140M</text>
   <text x="52" y="149" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
            >123M</text>

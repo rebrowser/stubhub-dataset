@@ -80,7 +80,7 @@
     "name": "seatTo",
     "type": "string",
     "description": "Ending seat number (e.g., \"6\", \"13\")",
-    "fillRate": 16,
+    "fillRate": 17,
     "premium": false
   },
   {
@@ -150,7 +150,7 @@
     "name": "discount",
     "type": "float",
     "description": "Discount factor vs avg price (e.g., 0.798=~80% off avg, negative=above avg)",
-    "fillRate": 56,
+    "fillRate": 55,
     "premium": true
   },
   {
