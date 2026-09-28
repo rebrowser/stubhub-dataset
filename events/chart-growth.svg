@@ -19,7 +19,7 @@
   <!-- bars (Added, right axis) -->
   <rect x="60" y="229" width="33" height="11"
           rx="1" fill="#22c55eb3" />
-  <rect x="95" y="187" width="33" height="53"
+  <rect x="95" y="188" width="33" height="52"
           rx="1" fill="#22c55eb3" />
   <rect x="130" y="233" width="33" height="7"
           rx="1" fill="#22c55eb3" />
