@@ -64,7 +64,7 @@
   <rect x="807" y="73" width="32" height="167"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="75,240 109,210 143,206 177,203 211,199 245,196 279,192 313,190 347,186 381,182 415,178 449,176 483,172 517,169 551,166 585,163 619,159 653,156 687,152 721,149 755,144 789,136 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="75,240 109,210 143,206 177,203 211,199 245,196 279,192 313,190 347,186 381,182 415,178 449,176 483,172 517,169 551,166 585,163 619,159 653,156 687,152 721,149 755,145 789,136 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
