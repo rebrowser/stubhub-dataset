@@ -17,25 +17,25 @@
   <line x1="58" y1="236" x2="848" y2="236"
            stroke="#e1e4e8" stroke-width="1" stroke-dasharray="4,3" />
   <!-- bars (Added, right axis) -->
-  <rect x="59" y="238" width="44" height="2"
+  <rect x="59" y="239" width="44" height="1"
           rx="1" fill="#22c55eb3" />
-  <rect x="105" y="238" width="44" height="2"
+  <rect x="105" y="239" width="44" height="1"
           rx="1" fill="#22c55eb3" />
-  <rect x="151" y="238" width="44" height="2"
+  <rect x="151" y="239" width="44" height="1"
           rx="1" fill="#22c55eb3" />
-  <rect x="197" y="219" width="44" height="21"
+  <rect x="197" y="223" width="44" height="17"
           rx="1" fill="#22c55eb3" />
-  <rect x="243" y="238" width="44" height="2"
+  <rect x="243" y="239" width="44" height="1"
           rx="1" fill="#22c55eb3" />
-  <rect x="289" y="224" width="44" height="16"
+  <rect x="289" y="227" width="44" height="13"
           rx="1" fill="#22c55eb3" />
-  <rect x="335" y="238" width="44" height="2"
+  <rect x="335" y="239" width="44" height="1"
           rx="1" fill="#22c55eb3" />
   <rect x="381" y="237" width="44" height="3"
           rx="1" fill="#22c55eb3" />
-  <rect x="427" y="230" width="44" height="10"
+  <rect x="427" y="231" width="44" height="9"
           rx="1" fill="#22c55eb3" />
-  <rect x="473" y="238" width="44" height="2"
+  <rect x="473" y="239" width="44" height="1"
           rx="1" fill="#22c55eb3" />
   <rect x="519" y="237" width="44" height="3"
           rx="1" fill="#22c55eb3" />
@@ -43,33 +43,33 @@
           rx="1" fill="#22c55eb3" />
   <rect x="611" y="237" width="44" height="3"
           rx="1" fill="#22c55eb3" />
-  <rect x="657" y="230" width="44" height="10"
+  <rect x="657" y="231" width="44" height="9"
           rx="1" fill="#22c55eb3" />
-  <rect x="703" y="209" width="44" height="31"
+  <rect x="703" y="214" width="44" height="26"
           rx="1" fill="#22c55eb3" />
-  <rect x="749" y="233" width="44" height="7"
+  <rect x="749" y="234" width="44" height="6"
           rx="1" fill="#22c55eb3" />
   <rect x="795" y="73" width="44" height="167"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="81,240 127,239 173,238 219,224 265,223 311,212 357,211 403,209 449,202 495,201 541,199 587,196 633,194 679,187 725,166 771,162 817,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="81,240 127,239 173,238 219,226 265,225 311,215 357,214 403,212 449,206 495,205 541,203 587,201 633,199 679,193 725,174 771,170 817,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
            >224</text>
   <text x="52" y="149" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >142</text>
+           >132</text>
   <text x="52" y="240" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >59</text>
+           >39</text>
   <!-- right y-axis labels (Added) -->
   <text x="854" y="56" text-anchor="start"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#22c55e"
-           >97</text>
+           >117</text>
   <text x="854" y="149" text-anchor="start"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#22c55e"
-           >49</text>
+           >59</text>
   <text x="854" y="240" text-anchor="start"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#22c55e"
            >0</text>
