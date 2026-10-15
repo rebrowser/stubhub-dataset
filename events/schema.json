@@ -80,7 +80,7 @@
     "name": "eventAvailabilityState",
     "type": "float",
     "description": "Event availability state (0=available, 1=limited, 2=soldout)",
-    "fillRate": 100,
+    "fillRate": 75,
     "premium": false
   },
   {
