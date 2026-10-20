@@ -1,6 +1,6 @@
 # StubHub Ticket Marketplace Dataset
 
-![Updated](https://img.shields.io/badge/updated-2026--10--19-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-142.5M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/stubhub)
+![Updated](https://img.shields.io/badge/updated-2026--10--20-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-142.5M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/stubhub)
 
 Daily snapshots of StubHub resale ticket listings, events, and venues with seating details, delivery types, and availability data across sports, concerts, and theater.
 
@@ -182,7 +182,7 @@ StubHub venue directory with name, city, country, and timezone offset for geogra
 
 
 
-> **224** total records from 2025-10-05 to 2026-09-27, **224** rows in this sample (100.0% of full dataset).
+> **224** total records from 2025-10-05 to 2026-09-27, **225** rows in this sample (100.4% of full dataset).
 > Exported as a single file, overwritten daily.
 
 ![Data Growth](venues/chart-growth.svg)
@@ -245,19 +245,19 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 
 ↳ `[{"field":"dealScore","op":"gte","value":8},{"sort":"dealScore DESC"}]`
 
-[Listings with Face Value Data](https://rebrowser.net/products/datasets/stubhub/event-listings/views/listings-with-face-value) — 93,421,329 records
+[Listings with Face Value Data](https://rebrowser.net/products/datasets/stubhub/event-listings/views/listings-with-face-value) — 93,515,594 records
 
 ↳ `[{"field":"faceValue","op":"gt","value":0},{"sort":"price ASC"}]`
 
-[Mobile Transfer Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/mobile-transfer-tickets) — 91,533,805 records
+[Mobile Transfer Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/mobile-transfer-tickets) — 91,769,028 records
 
 ↳ `[{"field":"ticketTypeName","op":"is","value":"Mobile Transfer ticket"},{"sort":"price ASC"}]`
 
-[Lower Level Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/lower-level-tickets) — 17,717,629 records
+[Lower Level Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/lower-level-tickets) — 17,742,151 records
 
 ↳ `[{"field":"ticketClassName","op":"is","value":"Lower"},{"sort":"price ASC"}]`
 
-[Multi-Ticket Listings (4+ tickets)](https://rebrowser.net/products/datasets/stubhub/event-listings/views/multi-ticket-listings) — 66,622,078 records
+[Multi-Ticket Listings (4+ tickets)](https://rebrowser.net/products/datasets/stubhub/event-listings/views/multi-ticket-listings) — 66,663,191 records
 
 ↳ `[{"field":"quantity","op":"gte","value":4},{"sort":"quantity DESC"}]`
 
@@ -269,11 +269,11 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 ### Events
 
 
-[Events with Active Listings](https://rebrowser.net/products/datasets/stubhub/events/views/events-with-active-listings) — 9,528 records
+[Events with Active Listings](https://rebrowser.net/products/datasets/stubhub/events/views/events-with-active-listings) — 9,527 records
 
 ↳ `[{"field":"hasActiveListings","op":"isTrue"},{"sort":"eventStartDatetime ASC"}]`
 
-[Active Events (Not Postponed/Cancelled)](https://rebrowser.net/products/datasets/stubhub/events/views/active-events) — 8,532 records
+[Active Events (Not Postponed/Cancelled)](https://rebrowser.net/products/datasets/stubhub/events/views/active-events) — 8,533 records
 
 ↳ `[{"field":"eventState","op":"eq","value":1},{"sort":"eventStartDatetime ASC"}]`
 
@@ -281,7 +281,7 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 
 ↳ `[{"field":"isFastSelling","op":"isTrue"},{"sort":"minPrice ASC"}]`
 
-[Upcoming Events (Next 30 Days)](https://rebrowser.net/products/datasets/stubhub/events/views/upcoming-events) — 566 records
+[Upcoming Events (Next 30 Days)](https://rebrowser.net/products/datasets/stubhub/events/views/upcoming-events) — 565 records
 
 ↳ `[{"field":"eventStartDatetime","op":"gte","value":"now"},{"field":"eventStartDatetime","op":"lte","value":"now+30d"},{"sort":"eventStartDatetime ASC"}]`
 
