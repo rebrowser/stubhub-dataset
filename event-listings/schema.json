@@ -73,7 +73,7 @@
     "name": "seatFrom",
     "type": "string",
     "description": "Starting seat number (e.g., \"1\", \"5\", \"12\")",
-    "fillRate": 37,
+    "fillRate": 38,
     "premium": false
   },
   {
@@ -150,7 +150,7 @@
     "name": "discount",
     "type": "float",
     "description": "Discount factor vs avg price (e.g., 0.798=~80% off avg, negative=above avg)",
-    "fillRate": 55,
+    "fillRate": 54,
     "premium": true
   },
   {
