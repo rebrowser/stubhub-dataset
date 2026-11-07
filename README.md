@@ -1,6 +1,6 @@
 # StubHub Ticket Marketplace Dataset
 
-![Updated](https://img.shields.io/badge/updated-2026--11--06-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-148.1M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/stubhub)
+![Updated](https://img.shields.io/badge/updated-2026--11--07-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-148.1M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/stubhub)
 
 Daily snapshots of StubHub resale ticket listings, events, and venues with seating details, delivery types, and availability data across sports, concerts, and theater.
 
@@ -116,7 +116,7 @@ Daily snapshot of StubHub events with start time, venue ID, availability state, 
 
 
 
-> **9,933** total records from 2025-10-05 to 2026-11-01, **up to 9,933** rows in this sample (100.0% of full dataset).
+> **9,934** total records from 2025-10-05 to 2026-11-01, **up to 9,934** rows in this sample (100.0% of full dataset).
 > Exported as one file per day, up to 1,000 rows each, last 30 days retained.
 
 ![Data Growth](events/chart-growth.svg)
@@ -162,7 +162,7 @@ Daily snapshot of StubHub events with start time, venue ID, availability state, 
 
 | Value | Count | Share |
 | --- | --- | --- |
-| 1 | 8,696 | `██████████████████░░` 87.5% |
+| 1 | 8,697 | `██████████████████░░` 87.5% |
 | 11 | 951 | `██░░░░░░░░░░░░░░░░░░` 9.6% |
 | 4 | 193 | `░░░░░░░░░░░░░░░░░░░░` 1.9% |
 | 6 | 92 | `░░░░░░░░░░░░░░░░░░░░` 0.9% |
@@ -241,23 +241,23 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 ### Event Listings
 
 
-[High Deal Score Listings (8+)](https://rebrowser.net/products/datasets/stubhub/event-listings/views/high-deal-score-listings) — 33,009,223 records
+[High Deal Score Listings (8+)](https://rebrowser.net/products/datasets/stubhub/event-listings/views/high-deal-score-listings) — 33,069,025 records
 
 ↳ `[{"field":"dealScore","op":"gte","value":8},{"sort":"dealScore DESC"}]`
 
-[Listings with Face Value Data](https://rebrowser.net/products/datasets/stubhub/event-listings/views/listings-with-face-value) — 95,158,995 records
+[Listings with Face Value Data](https://rebrowser.net/products/datasets/stubhub/event-listings/views/listings-with-face-value) — 95,261,237 records
 
 ↳ `[{"field":"faceValue","op":"gt","value":0},{"sort":"price ASC"}]`
 
-[Mobile Transfer Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/mobile-transfer-tickets) — 94,052,167 records
+[Mobile Transfer Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/mobile-transfer-tickets) — 94,184,913 records
 
 ↳ `[{"field":"ticketTypeName","op":"is","value":"Mobile Transfer ticket"},{"sort":"price ASC"}]`
 
-[Lower Level Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/lower-level-tickets) — 18,202,815 records
+[Lower Level Ticket Listings](https://rebrowser.net/products/datasets/stubhub/event-listings/views/lower-level-tickets) — 18,231,886 records
 
 ↳ `[{"field":"ticketClassName","op":"is","value":"Lower"},{"sort":"price ASC"}]`
 
-[Multi-Ticket Listings (4+ tickets)](https://rebrowser.net/products/datasets/stubhub/event-listings/views/multi-ticket-listings) — 67,465,437 records
+[Multi-Ticket Listings (4+ tickets)](https://rebrowser.net/products/datasets/stubhub/event-listings/views/multi-ticket-listings) — 67,513,474 records
 
 ↳ `[{"field":"quantity","op":"gte","value":4},{"sort":"quantity DESC"}]`
 
@@ -269,11 +269,11 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 ### Events
 
 
-[Events with Active Listings](https://rebrowser.net/products/datasets/stubhub/events/views/events-with-active-listings) — 9,652 records
+[Events with Active Listings](https://rebrowser.net/products/datasets/stubhub/events/views/events-with-active-listings) — 9,651 records
 
 ↳ `[{"field":"hasActiveListings","op":"isTrue"},{"sort":"eventStartDatetime ASC"}]`
 
-[Active Events (Not Postponed/Cancelled)](https://rebrowser.net/products/datasets/stubhub/events/views/active-events) — 8,663 records
+[Active Events (Not Postponed/Cancelled)](https://rebrowser.net/products/datasets/stubhub/events/views/active-events) — 8,664 records
 
 ↳ `[{"field":"eventState","op":"eq","value":1},{"sort":"eventStartDatetime ASC"}]`
 
@@ -281,7 +281,7 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 
 ↳ `[{"field":"isFastSelling","op":"isTrue"},{"sort":"minPrice ASC"}]`
 
-[Upcoming Events (Next 30 Days)](https://rebrowser.net/products/datasets/stubhub/events/views/upcoming-events) — 442 records
+[Upcoming Events (Next 30 Days)](https://rebrowser.net/products/datasets/stubhub/events/views/upcoming-events) — 439 records
 
 ↳ `[{"field":"eventStartDatetime","op":"gte","value":"now"},{"field":"eventStartDatetime","op":"lte","value":"now+30d"},{"sort":"eventStartDatetime ASC"}]`
 
@@ -297,7 +297,7 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 ### Venues
 
 
-[United States Venues](https://rebrowser.net/products/datasets/stubhub/venues/views/us-venues) — 197 records
+[United States Venues](https://rebrowser.net/products/datasets/stubhub/venues/views/us-venues) — 198 records
 
 ↳ `[{"field":"addressCountryCode","op":"is","value":"US"},{"sort":"name ASC"}]`
 
@@ -309,11 +309,11 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 
 ↳ `[{"field":"addressCountryCode","op":"isNot","value":"US"},{"sort":"addressCountry ASC"}]`
 
-[North America Venues](https://rebrowser.net/products/datasets/stubhub/venues/views/north-america-venues) — 210 records
+[North America Venues](https://rebrowser.net/products/datasets/stubhub/venues/views/north-america-venues) — 211 records
 
 ↳ `[{"field":"addressCountryCode","op":"is","value":"US"},{"field":"addressCountryCode","op":"is","value":"CA"},{"sort":"addressCountry ASC"}]`
 
-[Venues by City](https://rebrowser.net/products/datasets/stubhub/venues/views/venues-by-city) — 226 records
+[Venues by City](https://rebrowser.net/products/datasets/stubhub/venues/views/venues-by-city) — 227 records
 
 ↳ `[{"sort":"addressCity ASC"}]`
 
