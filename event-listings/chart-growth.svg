@@ -31,7 +31,7 @@
           rx="1" fill="#22c55eb3" />
   <rect x="239" y="168" width="28" height="72"
           rx="1" fill="#22c55eb3" />
-  <rect x="269" y="107" width="28" height="133"
+  <rect x="269" y="106" width="28" height="134"
           rx="1" fill="#22c55eb3" />
   <rect x="299" y="112" width="28" height="128"
           rx="1" fill="#22c55eb3" />
@@ -59,18 +59,18 @@
           rx="1" fill="#22c55eb3" />
   <rect x="659" y="133" width="28" height="107"
           rx="1" fill="#22c55eb3" />
-  <rect x="689" y="127" width="28" height="113"
+  <rect x="689" y="128" width="28" height="112"
           rx="1" fill="#22c55eb3" />
-  <rect x="719" y="77" width="28" height="163"
+  <rect x="719" y="80" width="28" height="160"
           rx="1" fill="#22c55eb3" />
-  <rect x="749" y="101" width="28" height="139"
+  <rect x="749" y="132" width="28" height="108"
           rx="1" fill="#22c55eb3" />
-  <rect x="779" y="117" width="28" height="123"
+  <rect x="779" y="99" width="28" height="141"
           rx="1" fill="#22c55eb3" />
-  <rect x="809" y="206" width="28" height="34"
+  <rect x="809" y="162" width="28" height="78"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="73,240 103,234 133,228 163,223 193,216 223,212 253,207 283,197 313,188 343,182 373,177 403,165 433,156 463,146 493,138 523,131 553,124 583,114 613,106 643,98 673,91 703,83 733,71 763,61 793,52 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="73,240 103,234 133,228 163,223 193,216 223,212 253,207 283,198 313,189 343,183 373,177 403,165 433,156 463,147 493,139 523,132 553,125 583,115 613,108 643,100 673,92 703,84 733,73 763,65 793,56 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
